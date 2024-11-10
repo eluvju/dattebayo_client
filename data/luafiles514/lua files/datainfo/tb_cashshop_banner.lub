@@ -1,0 +1,12 @@
+tb_cashshop_banner = {
+	[1] = {
+		"rAbanner.bmp",
+		"https://valiryan-ro.myrag.com.br/portal/doacoes.html"
+	},
+}
+
+function set_cashshop_banner()
+	for key, value in ipairs(tb_cashshop_banner) do
+		add_cashshop_banner(value[1], value[2])
+	end
+end

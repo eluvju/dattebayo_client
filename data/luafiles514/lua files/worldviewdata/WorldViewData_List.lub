@@ -1,0 +1,37 @@
+World_List = { {
+		"Midgard",
+		"worldtable_main",
+		"worldtable_main_Dun",
+		"worldmap.jpg"
+	}, {
+		"Midgard Norte",
+		"worldtable_north",
+		"worldtable_north_Dun",
+		"midgard_north.jpg"
+	}, {
+		"Dimensão",
+		"worldtable_dimensions",
+		"worldtable_dimensions_Dun",
+		"worldmap_dimension.bmp"
+	}, {
+		"Fissura",
+		"worldtable_Crack_of_Dimension1",
+		"worldtable_Crack_of_Dimension1_Dun",
+		"Crack_of_Dimension1.jpg"
+	}, {
+		"Localização 01",
+		"worldtable_localizing1",
+		"worldtable_localizing1_Dun",
+		"worldmap_localizing1.bmp"
+	}, {
+		"Localização 02",
+		"worldtable_localizing2",
+		"worldtable_localizing2_Dun",
+		"worldmap_localizing2.bmp"
+	}, {
+		"Lasagna",
+		"worldtable_Doram",
+		"worldtable_Doram_Dun",
+		"pasta.jpg"
+	}
+}

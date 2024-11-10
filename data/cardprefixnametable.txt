@@ -1,0 +1,1188 @@
+1001#Mascot#
+4001#da Fortuna#
+4002#Vital#
+4003#Resistente#
+4004#Expediente#
+4005#Celestial#
+4006#Talismã#
+4007#Espectral#
+4008#Extraforte#
+4009#Leves#
+4010#Sagaz#
+4011#Eficaz#
+4012#Tenaz#
+4013#Excelente#
+4014#da Disciplina#
+4015#do Vento#
+4016#Veloz#
+4017#Estonteante#
+4018#Consciente#
+4019#Tonificante#
+4020#Cegante#
+4021#Hábil#
+4022#do Vigor#
+4023#Mental#
+4024#Nocauteante#
+4025#Fatal#
+4026#Acelerante#
+4027#Ágil#
+4028#do Lutador#
+4029#Feroz#
+4030#Lunar#
+4031#de Ares#
+4032#de Atena#
+4033#Desintoxicante#
+4034#Pontual#
+4035#Capital#
+4036#Possante#
+4037#Inoculante#
+4038#Saudáveis#
+4039#do Filósofo#
+4040#de Teleporte#
+4041#do Insone#
+4042#do Defensor#
+4043#Excepcional#
+4044#do Esconderijo#
+4045#Resiliente#
+4046#do Clérigo#
+4047#Intagível#
+4048#de Veneno#
+4049#Inflamável#
+4050#de Hermes#
+4051#Lábil#
+4052#Brilhante#
+4053#de Cura#
+4054#Celeste#
+4055#Congelante#
+4056#da Tempestade#
+4057#Silenciante#
+4058#de Prometeu#
+4059#de Hera#
+4060#Bestial#
+4061#Imortal#
+4062#Neutralizante#
+4063#Imunizante#
+4064#Integral#
+4065#Fundamental#
+4066#de Artemis#
+4067#Energizante#
+4068#Termal#
+4069#Desidratante#
+4070#de Wicca#
+4071#dos Anjos#
+4072#Indestrutível#
+4073#do Vendedor#
+4074#de Urtiga#
+4075#Hipnotizante#
+4076#Amaldiçoante#
+4077#de Concentração#
+4078#de Regeneração#
+4079#Descomunal#
+4080#Estival#
+4081#da Montanha#
+4082#Gigante#
+4083#de Alga#
+4084#da Explosão#
+4085#Abissal#
+4086#Letal#
+4087#do Juiz#
+4088#do Ilusionista#
+4089#de Poseidon#
+4090#Escarlate#
+4091#de Contra-ataque#
+4092#Primordial#
+4093#Medicinal#
+4094#Ciclonal#
+4095#do Oceano#
+4096#Feral#
+4097#Verdes#
+4098#de Zefir#
+4099#de Hefestus#
+4100#de Fada#
+4101#de Gaia#
+4102#de Loki#
+4103#Clarividente#
+4104#Caotizante#
+4105#Anti-congelante#
+4106#Ancestral#
+4107#Essenciais#
+4108#da Nascente#
+4109#do Deserto#
+4110#da Vacina#
+4111#Exorcisante#
+4112#do Arauto#
+4113#da Alma#
+4114#de Apolo#
+4115#Cabal#
+4116#da Luz#
+4117#do Duelista#
+4118#Nobre#
+4119#do Mal#
+4120#do Dragão#
+4121#Magistral#
+4122#do Sentinela#
+4123#de Heimdall#
+4124#de Perseu#
+4125#Hibernal#
+4126#Colossal#
+4127#do Vigilante#
+4128#do Escaravelho#
+4129#da Noite#
+4130#Solar#
+4131#Fugazes#
+4132#de Jóias#
+4133#de Balder#
+4134#Espiritual#
+4135#de Espelhos#
+4136#do Inferno#
+4137#do Infinito#
+4138#do Paraíso#
+4139#do Luar#
+4140#Rebelde#
+4141#de Hades#
+4142#da Fúria#
+4143#do Herói#
+4144#da Eternidade#
+4145#do Ventríloquo#
+4146#de Reflexão#
+4147#do Ceifeiro#
+4148#do Místico#
+4149#do Céu Limpo#
+4150#da Resistência à Magia#
+4151#do Destruidor da Natureza#
+4152#Suculenta#
+4153#de Câncer#
+4154#Aromático#
+4155#Goblin Fatal#
+4156#Chama Fatal#
+4157#Fuminante#
+4158#da Chacina#
+4159#do Nível Alto#
+4160#do Nível Alto#
+4161#Contra Magia#
+4162#do Cego#
+4163#Selvagem#
+4164#do Pescador#
+4165#do Inseto Sugador#
+4166#do Azar#
+4167#Bestiano#
+4168#da perdição#
+4169#do mestre encantador#
+4170#do endurecimento#
+4171#Drenador de Almas#
+4172#Cortante#
+4173#do Hipnotismo#
+4174#Maravilhoso#
+4175#Empurrador#
+4176#Serpente Fatal#
+4177#da Pedra Verde#
+4178#do Mestre Arqueiro#
+4179#da Luz Intensa#
+4180#Draconiano#
+4181#do Silêncio Mortal#
+4182#Demoníaco#
+4183#do Lobisomem#
+4184#da Parada#
+4185#da Sabedoria#
+4186#Musculoso#
+4187#da Noite Brilhante#
+4188#da Pedra Vermelha#
+4189#da Miséria#
+4190#do Animador#
+4191#da Linha da Vida#
+4192#dos Peixes Fatais#
+4193#da Paciência#
+4194#do Atordoamento#
+4195#da Pedra Azul#
+4196#do Jellopy#
+4197#do Sortudo#
+4198#da Mira Verdadeira#
+4199#do Encontrão#
+4200#da Resistência à Poder Mágico#
+4201#Múltiplo Atordoamento#
+4202#Exorcismo#
+4203#Flamejante#
+4204#do Ganhador#
+4205#do Cubo Azul#
+4206#Cúbico#
+4207#Contra o Menor#
+4208#da Energia Plena#
+4209#da Rachadura#
+4210#Pressão#
+4211#do Especialista#
+4212#do Empurrão#
+4213#do Silêncio#
+4214#Canibal#
+4215#do Alimento#
+4216#do Sopro Gelado#
+4217#Auto Cura#
+4218#do Pesadelo#
+4219#da Pedra Mágica#
+4220#Fiel#
+4221#do Colecionador de Insetos#
+4222#do Sono#
+4223#Resistente ao Atordoamento#
+4224#do Dia Chuvoso#
+4225#Atirador#
+4226#Nível Alto#
+4227#do Cheiro de Carne#
+4228#do Dia#
+4229#Veloz#
+4230#do Covarde#
+4231#Encontrão#
+4232#Refrescante#
+4233#Sorte do Petit#
+4234#do Espelho Inoxidável#
+4235#do Anjo Corrupto#
+4236#da Proteção#
+4237#da Ira dos Deuses#
+4238#do Poder Duplo#
+4239#do Caçador Veterano#
+4240#da Resistência à Magia#
+4241#Duplo 7 Sortudo#
+4242#Nível Alto#
+4243#da Escapada#
+4244#do Seguidor#
+4245#do Assassino#
+4246#Morte#
+4247#Peixe-Estrela#
+4248#Cruz Brilhante#
+4249#do Exorcista#
+4250#Contra Grandes#
+4251#Invasão#
+4252#do Trevo de 4 Folhas#
+4253#da Guarda Real#
+4254#Contra Médios#
+4255#Esmagador#
+4256#Desejado#
+4257#Alado#
+4258#Inteligência Melhorada#
+4259#da Natureza#
+4260#Protetor Contra Confusão#
+4261#Protetor Contra Cegueira#
+4262#do Dia Nublado#
+4263#Desejo Sangrento#
+4264#Relâmpago#
+4265#do Alvorecer#
+4266#Resistência Mágica#
+4267#do Caçador de Dragões#
+4268#Extensor#
+4269#do Pesadelo#
+4270#do Veneno#
+4271#da Pedra Amarela#
+4272#Veloz#
+4273#Concha#
+4274#Morto-Vivo Sugador#
+4275#do Morto-Vivo Matador#
+4276#Crise#
+4277#do Mestre Atirador#
+4278#da Resistência à Magia#
+4279#do Colecionador de Almas#
+4280#da Benção Grandiosa#
+4281#Trabalhador#
+4282#da Poção#
+4283#Lança de Mana#
+4284#Toque Suave#
+4285#Conjurado por Elfo#
+4286#do Pânico#
+4287#da Resistência à Magia#
+4288#Nível Alto#
+4289#Planta Sugadora#
+4290#Reflexo#
+4291#Kobold Fatal#
+4292#Planta Fatal#
+4293#Chance#
+4294#do Astuto#
+4295#do Apagão#
+4296#Cobiça#
+4297#Certeiro#
+4298#do Caos#
+4299#Guardião#
+4300#da Carga Venenosa#
+4301#do Sangramento#
+4302#do Alto Risco#
+4303#Místico#
+4304#do Mestre Escudeiro#
+4305#Explosão#
+4306#do Rei#
+4307#Força-Aquática Ganha#
+4308#da Drenagem de Força#
+4309#Cobertura Rígida#
+4310#da Maldade Fatal#
+4311#Contra Poder Maligno#
+4312#da Alma#
+4313#do Pântano#
+4314#da Guarda Flamejante#
+4315#da Pedra Amaldiçoada#
+4316#Ganho da Alma Angelical#
+4317#Aura#
+4318#Causador de Tempestade#
+4319#do Mestre Espadachim#
+4320#Luz do Meteoro#
+4321#do Polimorfo#
+4322#do Contra-Ataque#
+4323#Congelante#
+4324#do Ártico#
+4325#da Dureza#
+4326#do Cheiro de Peixe#
+4327#do Fluxo Mágico#
+4328#do Hiper#
+4329#do Ganho da Alma#
+4330#do Imune a Maldição#
+4331#da Evasão#
+4332#de Hermod#
+4333#de Jormungard#
+4334#do Antiatirador#
+4335#do Gnomo#
+4336#da Vitalidade#
+4337#da Agressão#
+4338#da Troca de Vitalidade#
+4339#da Muralha#
+4340#de Hel#
+4341#do Desarmamento#
+4342#do Mamute#
+4343#de Frigga#
+4344#da Refeição#
+4345#da Sílfide#
+4346#da Troca de Força#
+4347#do Pescador#
+4348#de Fenrir#
+4349#Antiflecha#
+4350#da Ondina#
+4351#da Baixa Esquiva#
+4352#da Juventude#
+4353#da Yggdrasil#
+4354#da Estabilidade#
+4355#do Açougueiro#
+4356#da Autoridade#
+4357#do Frenesi#
+4358#da Apatia#
+4359#das Sombras#
+4360#do Mercenário#
+4361#do Hollgrehenn#
+4362#do Acerto#
+4363#do Arcanjo#
+4364#do Selo Mágico#
+4365#da Tormenta#
+4366#da Conjuração#
+4367#da Pressão#
+4368#Rápido#
+4369#da Troca de Sorte#
+4370#do Enfraquecimento#
+4371#de Forseti#
+4372#da Medicina#
+4373#da Maldição#
+4374#da Visão#
+4375#do Nível Elevado#
+4376#da Magia Plena#
+4377#da Sobremesa#
+4378#da Baixa Força#
+4379#da Baixa Magia#
+4380#da Salamandra#
+4381#de Bragi#
+4382#de Mímir#
+4383#do Caos#
+4384#do Tormento#
+4385#da Bebida#
+4386#do Abrigo Mágico#
+4387#da Troca de Agilidade#
+4388#da Alma#
+4389#Elemental#
+4390#do Sangramento#
+4391#do Lanche#
+4392#da Troca de Destreza#
+4393#da Troca de Inteligência#
+4394#da Punição Divina#
+4395#do Verme#
+4396#do Entorpecer#
+4397#da Amnésia#
+4398#da Escuridão#
+4399#do Impacto#
+4400#da Tentação#
+4401#da Esquiva#
+4402#da Escolha#
+4403#da Recarga#
+4404#da Hemorragia#
+4405#do Reflexo#
+4406#Cintilante#
+4407#de Freya#
+4408#do Abissal#
+4409#da Histeria#
+4410#da Demência#
+4411#de Arta#
+4412#de Aria#
+4413#da Resistência#
+4414#da Górgona#
+4415#Gentil#
+4416#de Yana#
+4417#de Flaw#
+4418#de Hail#
+4419#do Jack Frost#
+4420#do Conforto#
+4421#do Chinook#
+4422#da Maresia#
+4423#de Sharia#
+4424#de Pedra#
+4425#Bestial#
+4426#da Excelência#
+4427#do Poder#
+4428#do Feixe#
+4429#do Nessus#
+4430#Infernal#
+4431#Ínfera#
+4432#Vulcanizada#
+4433#de Ignis#
+4434#do Mineiro#
+4435#do Ultraje#
+4436#do Lunático#
+4437#do Fanático#
+4438#Intelectual#
+4439#do Maldito#
+4440#da Indiferença#
+4441#do Arrogante#
+4442#da Terra Furiosa#
+4443#do Gelo Perfurante#
+4444#do Fogo Eterno#
+4445#do Vento Uivante#
+4447#do Envenenamento#
+4448#do Amaldiçoado#
+4449#do Abençoado#
+4450#do Mestre Feiticeiro#
+4451#do Axis#
+4452#do Feiticeiro#
+4453#da Violência#
+4454#Ceifadeiro#
+4455#Feya#
+
+// - Episode 14.1 Cards - \\
+4456#do Arcano#
+4457#Pisíquica#
+4458#da Ilusão#
+4459#do Conjurador#
+4460#do Curandeiro#
+4461#da Forma#
+4462#da Defesa Prima#
+4463#do Ataque Primo#
+4464#do Ataque Crítico#
+4465#da Espada Leve#
+4466#do Tiro Preciso#
+4467#Pesado#
+4468#Hera Venenosa#
+4469#Antipeixe#
+4470#Antibotanica#
+4471#Antidragão#
+4472#Antifera#
+4473#Antizumbi#
+4474#Mortal#
+4475#Antidisforme#
+4476#Anti-inseto#
+4477#Antidemoniaca#
+4478#Estranha Verdade#
+4479#Estranha Mentira#
+
+4480#da Recarga Selada#
+4481#do Jack Frost Selado#
+4482#da Juventude Selada#
+4483#Espiritual Selada#
+4484#de Jóias Seladas#
+4485#do Abissal Selado#
+
+//-------New Monster Cards 
+4505#da Bruxa Má#
+4506#do Arqueiro#
+4507#Scaraba#
+4508#do Enlouquecido#
+4509#Contra Insetos#
+4510#do Blecaute#
+4511#Silentium#
+4512#do Noviço#
+4513#do Gatuno#
+4514#Exorcista#
+4515#Flora#
+4516#da Parede de Pedra#
+4517#do Mago#
+4518#em Chamas#
+4519#Seraphim#
+4520#do Grito#
+4521#do Sopro Mortal#
+4522#de Gelo#
+4523#Aquarius#
+4524#do Espadachim#
+4525#da Furtividade#
+4526#da Defesa Mágica#
+4527#da Defesa Física#
+4528#do Espírito#
+4529#do Físico#
+4530#do Mercador#
+4531#das Maldições#
+4532#da Corrida#
+4533#da Cegueira#
+4534#da Bomba D'Água#
+4493#Half High Risk#
+
+4545#Novice#
+
+4546#Screwed#
+
+/ / --- October 2012   Hero's Trail
+4556#do Feitiço Incisivo#
+4557#dos Feitiços#
+
+/ / --- 2013 / 02/15 sealed Dark Lord added
+4488#of Half Doom#
+
+/ / February 2013   drank before Memorial
+4559#Blitz#
+
+/ / January 2013  4   probability model cache
+4497#Half Storm-Bringer#
+
+//4998#of Valor#
+//4999#of Aegis#
+
+/ / --- 2013 / 22.05 Sealed Berzebub Card
+4486#do Ventríloquo Selada#
+
+/ / --- June 2013   new cards
+4574#Sword Master#
+4575#Shortcut#
+4576#Educe#
+4577#Psychic#
+4578#Fear#
+4579#Morning Star#
+4581#Toilet#
+
+//malaya
+4582#Stamina#
+4583#of Poison Grass#
+4584#Vampiric#
+4585#Cursed#
+4586#of Wind#
+4587#Slasher#
+4588#of Power#
+4589#of Richness#
+4590#of Helpless#
+4591#of Bloody#
+4592#of Stone Curse#
+4601#of Explosion#
+4602#of Fury#
+4603#Evil Spirit#
+4604#Evil God#
+4605#of Hunger#
+4606#of Revenge#
+
+4608#do Cavaleiro Branco#
+4609#do Cavaleiro Branco#
+4610#da Bênção#
+
+//--- 2013 December
+4494#Explosão Selada#
+
+//--- 2014 January
+4538#Half Life Stream#
+
+//--- 2014 February
+4489#of Half Kirin#
+
+//--- 2014 March
+4490#Half Hasty#
+
+// New card translation (dec 2014)
+4487#Half Inferno#
+4491#da Pressão Selada#
+
+4503#da Visão Selada#
+4539#do Arrogante Selado#
+
+//--- Agustus 2014 Nightmare Clock Tower
+4624#do Alto Nível#
+4625#do Vigia#
+4626#dos Ecos#
+4627#Vibrante#
+4628#do Bolor#
+4629#da Desolação#
+4630#da Desgraça#
+4631#Célere#
+4632#Voltaico#
+
+// January 2015 Episode 16.1
+4446#Sharpen#
+4633#Queen Bird#
+4634#Fatal#
+4635#Tight#
+4636#Temporal#
+4637#of Drain#
+4638#Plaid#
+4639#Martial#
+4640#Noetic#
+4641#of Soul Gathering#
+
+// 20150616 jRO Nightmare Pyramid
+4652#Punishment#
+4653#Immortal Beast#
+4654#Tomb Raider#
+4655#Grave Keeper#
+4656#Hypnotist#
+4657#Flaming#
+4658#of Magic#
+
+// 2015 06 Infinite Dungeon
+4642#Side Step#
+4643#Strike#
+4644#Magic Shield#
+4645#Physical#
+4646#Chimera#
+4647#Immortal#
+4648#Provocation#
+4649#Fatal Blow#
+4650#Magic Stun#
+4651#Monarch#
+
+// 2015 Doram race
+4659#Adventurer#
+4660#of Will#
+4661#of Strength#
+4662#Trinity#
+4663#Pretty#
+4664#Pure#
+4665#Honey#
+4666#Sugar#
+4667#Wake#
+4668#Silky#
+4669#Gust#
+4670#Blaze#
+
+// 2015 Nightmare Toy Factory Cards
+31016#of Sorrow#
+31017#of Hatred#
+31018#Frustration#
+31019#of Chill#
+31020#of Wrath#
+31021#Madness#
+31022#of Despair#
+31023#Maniac#
+
+// 201512 Tomb of The Fallen Cards
+4671#of Sorcery#
+4672#of Sura#
+4673#of Minstrel#
+4674#of Guillotine Cross#
+4675#of Arch Bishop#
+4676#of Ranger#
+4677#of Mechanic#
+4678#of Warlock#
+4679#of Rune Knight#
+4680#of Royal Guard#
+4681#of Genetic#
+4682#of Shadow Chaser#
+4683#of Wanderer#
+4684#Cross#
+4685#Adoramus#
+4686#Crimson#
+4687#Cluster#
+4688#Power Storm#
+4689#Ignition#
+4690#Drive#
+4691#Neo Storm#
+4692#Varetyr#
+4693#Aeration Shot#
+4694#Decoy#
+4695#Rain Storm#
+4696#Sound Shock#
+
+// Episode 16.2
+31024#Volcanic Ball#
+31025#Deadly#
+31026#Auto Magic#
+
+// EP 15 Cards
+27012#Active Protection#
+27013#Vulcan#
+27014#Mirage#
+27015#Restore#
+27016#All Scan#
+27017#Temporary#
+27018#Overclock#
+27019#Debug#
+27020#System Error#
+4697#Overload#
+4698#Boomerang#
+4699#Dual Cannon#
+
+// 2016 Friday Dungeon
+27025#Noble#
+
+// Episode 14.1 field monster cards
+27026#Blazing#
+27027#Flaming#
+27028#Searing#
+27029#Flame Eater#
+27030#Firebug#
+
+// 2016 12 Illusion of Moonlight
+27081#Moonlight#
+27082#Foxtail#
+27083#of Growth#
+27084#Creepy#
+27085#Delicate#
+27086#Shooter#
+27087#Truth#
+27088#of Agitation#
+
+// 2017 Illusion Geffen (Vampire)
+27101#Sorceress#
+27102#Fire Immunity#
+27103#Vigor#
+27104#Compassion#
+27105#Sorrow#
+
+// Missing cards
+4492#Half Neutral#
+4495#of Half Protection#
+4496#of Half Infinity#
+4498#Half Mana Pool#
+4499#Half Bloodlust#
+4500#Half Mirror#
+4501#Half Protection#
+4502#Half Holgren#
+4504#Half Bearer's#
+4536#Half Beast#
+4537#Half Perfect#
+4540#Half Crisis#
+4541#of Half Tempest#
+4542#of Half Magic Shelter#
+4543#Half Arctic#
+4544#Half Curse Lift#
+4547#Half Exceeding#
+4548#Half Nessus#
+4549#of Half True Sight#
+4550#Half Shaft#
+4580#of Devilish#
+
+// jRO cards
+4623#11th Anniversary#
+27000#of Sorrow#
+27001#of Hatred#
+27002#of Frustration#
+27003#of Chill#
+27004#of Wrath#
+27005#of Madness#
+27006#of Despair#
+27007#of Laugh#
+27008#Rogue#
+27009#Evil God#
+27010#Knight#
+27011#Knight's#
+27021#Brick King#
+27022#of Blaze Barrier#
+27023#Milk Master#
+27024#Rabbit#
+27036#Sharp#
+27037#Queen Bird#
+27038#Spike#
+27039#of Big Runaway#
+27040#Brinicle#
+27041#High Tension#
+27042#of Interrupt#
+27043#of Mudd Candy#
+27044#of Mudd Sherbet#
+27045#of Soul Gathering#
+27050#Dual Mirage#
+27051#Dual Spiritual#
+27052#Dual Whale#
+27053#Dual Jungle#
+27054#Dual Genie#
+27033#Madman's#
+27034#Gust#
+27035#Twisted#
+27120#em Raios Fúlgidos#
+27121#do Ipiranga#
+27122#da Pátria Amada#
+27123#do Formoso Céu#
+27124#dos Filhos deste Solo#
+27125#do Brado Retumbante#
+27126#da Fúria Folclórica#
+29230#Tainy Ale#
+31000#of Toilet#
+31001#Morning Star#
+31002#Psychic#
+31003#Will#
+31004#Twister#
+31005#Sword Master#
+31006#of Praise Death Lord#
+31007#of Immortal Grudge#
+31008#Spirit Amulet#
+31009#of Wish Song#
+31010#Shubha~~~n!#
+31011#Kimakima Time#
+31012#Dragon Fear#
+31013#Mega Flare#
+31014#of Golden End#
+31015#of God of Fate#
+
+//2017 September Hero's Trail part 1 Cards
+27163#of Abranchia#
+27164#Koya#
+27165#of Albion#
+27166#Prio#
+27167#Glacial#
+27168#of Padre#
+27169#Infantry#
+
+// Sarah And Fenrir
+27183#Onslaught#
+
+
+
+
+//2017 July Nightmare Jitterbug
+27106#Musician's#
+27107#Dancing#
+27108#Singing#
+27109#of Jitterbug#
+
+// Geffen Magic Tournament
+27249#do Arhi#
+27250#do Dio Anemos#
+27251#do Bandido de Geffen#
+27252#do Valentão de Geffen#
+27253#da Gatuna de Geffen#
+27254#do Mirzam#
+27255#da Muliphen#
+27256#da Wezen#
+27257#do Kuro Akuma#
+27258#do Ifodes#
+27259#da Licheni#
+27260#da Odoric#
+27261#do Ju#
+27262#da Dwigh#
+27263#da Fay Kanavian#
+27264#da Sombra Maligna#
+27265#do Crente Maligno#
+
+
+
+
+
+
+// Client enhancement based on jRO
+// Uncomment all lines below to activate it
+//FOR+1~FOR+10
+4700#(FOR+1) #
+4701#(FOR+2) #
+4702#(FOR+3) #
+4703#(FOR+4) #
+4704#(FOR+5) #
+4705#(FOR+6) #
+4706#(FOR+7) #
+4707#(FOR+8) #
+4708#(FOR+9) #
+4709#(FOR+10) #
+
+//INT+1~INT+10
+4710#(INT+1) #
+4711#(INT+2) #
+4712#(INT+3) #
+4713#(INT+4) #
+4714#(INT+5) #
+4715#(INT+6) #
+4716#(INT+7) #
+4717#(INT+8) #
+4718#(INT+9) #
+4719#(INT+10) #
+
+//DES+1~DES+10
+4720#(DES+1) #
+4721#(DES+2) #
+4722#(DES+3) #
+4723#(DES+4) #
+4724#(DES+5) #
+4725#(DES+6) #
+4726#(DES+7) #
+4727#(DES+8) #
+4728#(DES+9) #
+4729#(DES+10) #
+
+//AGI+1~AGI+10
+4730#(AGI+1) #
+4731#(AGI+2) #
+4732#(AGI+3) #
+4733#(AGI+4) #
+4734#(AGI+5) #
+4735#(AGI+6) #
+4736#(AGI+7) #
+4737#(AGI+8) #
+4738#(AGI+9) #
+4739#(AGI+10) #
+
+//VIT+1~VIT+10
+4740#(VIT+1) #
+4741#(VIT+2) #
+4742#(VIT+3) #
+4743#(VIT+4) #
+4744#(VIT+5) #
+4745#(VIT+6) #
+4746#(VIT+7) #
+4747#(VIT+8) #
+4748#(VIT+9) #
+4749#(VIT+10) #
+
+//SOR+1~SOR+10
+4750#(SOR+1) #
+4751#(SOR+2) #
+4752#(SOR+3) #
+4753#(SOR+4) #
+4754#(SOR+5) #
+4755#(SOR+6) #
+4756#(SOR+7) #
+4757#(SOR+8) #
+4758#(SOR+9) #
+4759#(SOR+10) #
+
+//CRI
+4764#(CRI+5) #
+4765#(CRI+7) #
+
+//DEF
+4791#(DEF+3) #
+4792#(DEF+6) #
+4793#(DEF+9) #
+4794#(DEF+12) #
+
+//DEFM
+4786#(DEFM+2) #
+4787#(DEFM+4) #
+4788#(DEFM+6) #
+4789#(DEFM+8) #
+4790#(DEFM+10) #
+
+//ATQ
+4819#(ATQ+1%) #
+4766#(ATQ+2%) #
+4767#(ATQ+3%) #
+
+//ATQM
+4760#(ATQM+1%) #
+4761#(ATQM+2%) #
+4806#(ATQM+3%) #
+
+//ESQV
+4859#(ESQV+1) #
+4860#(ESQV+3) #
+4762#(ESQV+6) #
+4763#(ESQV+12) #
+
+//HP
+4795#(HP+100) #
+4796#(HP+200) #
+4797#(HP+300) #
+4798#(HP+400) #
+4799#(HP+500) #
+
+//HP%
+4861#(HP+1%) #
+4862#(HP+2%) #
+4867#(HP+3%) #
+4868#(HP+4%) #
+4900#(HP+5%) #
+
+//SP
+4870#(SP+25) #
+4800#(SP+50) #
+4871#(SP+75) #
+4801#(SP+100) #
+4802#(SP+150) #
+
+//Super Atributos
+4853#(S.FOR) #
+4854#(S.AGI) #
+4855#(S.VIT) #
+4856#(S.INT) #
+4857#(S.DES) #
+4858#(S.SOR) #
+
+//Encantos de GH
+4875#(Delírio) #
+4876#(Epifania) #
+4877#(Ânimo) #
+4878#(Histeria) #
+4879#(Instinto) #
+4880#(Euforia) #
+
+//Redução Asas de Arcanjo
+4848#(RN5) #
+4849#(RH5) #
+
+//Espírito do Lutador
+4811#(EL 1) #
+4810#(EL 2) #
+4809#(EL 3) #
+4808#(EL 4) #
+4820#(EL 5) #
+4821#(EL 6) #
+4822#(EL 7) #
+4823#(EL 8) #
+4824#(EL 9) #
+4825#(EL 10) #
+
+//Pedra do Encantamento
+4815#(PE 1) #
+4814#(PE 2) #
+4813#(PE 3) #
+4812#(PE 4) #
+4826#(PE 5) #
+4827#(PE 6) #
+4828#(PE 7) #
+4829#(PE 8) #
+4830#(PE 9) #
+4831#(PE 10) #
+
+//Mira Apurada
+4832#(MA 1) #
+4833#(MA 2) #
+4834#(MA 3) #
+4835#(MA 4) #
+4836#(MA 5) #
+4837#(MA 6) #
+4838#(MA 7) #
+4839#(MA 8) #
+4840#(MA 9) #
+4841#(MA 10) #
+
+//Pedra de Crítico
+4818#(PC 1) #
+4817#(PC 2) #
+4816#(PC 3) #
+4843#(PC 4) #
+4844#(PC 5) #
+
+//Fatal
+4863#(F 1) #
+4864#(F 2) #
+4865#(F 3) #
+4866#(F 4) #
+
+//AB Mora
+4803#(Cura 1) #
+4804#(Catol 1) #
+
+//Arcebispo
+4805#(AB 1) #
+4850#(AB 2) #
+4851#(AB 3) #
+4852#(AB 4) #
+
+//Anti Atraso
+4869#(AA 1) #
+4872#(AA 2) #
+4873#(AA 3) #
+4881#(AA 4) #
+
+//V.Atq
+4807#(V.Atq+1) #
+4842#(V.Atq+2) #
+
+//Essências
+4908#(E.FOR1) #
+4909#(E.FOR2) #
+4910#(E.FOR3) #
+4911#(E.INT1) #
+4912#(E.INT2) #
+4913#(E.INT3) #
+4914#(E.AGI1) #
+4915#(E.AGI2) #
+4916#(E.AGI3) #
+4917#(E.VIT1) #
+4918#(E.VIT2) #
+4919#(E.VIT3) #
+4920#(E.DES1) #
+4921#(E.DES2) #
+4922#(E.DES3) #
+4923#(E.SOR1) #
+4924#(E.SOR2) #
+4935#(E.SOR3) #
+
+//Anel do Herói
+4882#(ATQ +1%) #
+4894#(ATQ +4%) #
+4895#(ATQ +5%) #
+4904#(ATQ +6%) #
+4905#(ATQ +7%) #
+4883#(ATQM 1) #
+4896#(ATQM 2) #
+4897#(ATQM 3) #
+4898#(ATQM 4) #
+4899#(ATQM 5) #
+4906#(ATQM 6) #
+4907#(ATQM 7) #
+
+//Pedra de Feitiço
+4885#(PF 1) #
+4886#(PF 2) #
+4887#(PF 3) #
+4888#(PF 4) #
+4889#(PF 5) #
+
+//Neutralidade
+4933#(Neut 1) #
+4934#(Neut 2) #
+4935#(Neut 3) #
+
+//E.X.C.
+4970#(E-Fogo) #
+4971#(E-Água) #
+4972#(E-Terra) #
+4973#(E-Vento) #
+4974#(R-Fogo) #
+4975#(R-Água) #
+4976#(R-Terra) #
+4977#(R-Vento) #
+4978#(C-Corpo) #
+4979#(C-Alma) #
+4980#(C-Físico) #
+4981#(C-Mental) #
+4982#(A-FOR) #
+4983#(A-INT) #
+4984#(A-DEF) #
+4985#(A-ESQV) #
+4986#(A-ATQ) #
+4987#(A-ATQM) #
+4988#(A-HP) #
+4989#(A-SP) #
+4990#(I-Gelo) #
+4991#(A-VdA) #
+
+//Eclage
+4593#do Atirador#
+4594#do Sopro da Morte#
+4595#do Ácido#
+4596#do Intelectual#
+4597#da Água#
+4598#do Fantasma#
+4599#do Fogo#
+4600#da Terra#
+4607#do Bibliotecário#
+
+//Laboratório de Wolfchev
+4560#do Bragi#
+4561#da Proteção Mágica#
+4562#do Impacto#
+4563#do Terror Ácido#
+4564#da Remoção#
+4565#do Crux Magnun#
+4566#da Sorte#
+4567#do Bardo#
+4568#da Sabedoria#
+4569#da Origem#
+4570#da Recuperação rápida#
+4571#do Confinamento#
+4572#do Bloqueio#
+4573#da Odalisca#
+
+//Moscóvia
+27157#da Floresta Azul#
+27158#dos Ventos#
+27159#do Caçador de Demônios#
+27160#da Esquiva#
+27161#do Terreno Explosivo#
+27162#do Espírito Endurecido#

@@ -1,0 +1,2010 @@
+1001#Mascote#
+4001#Por sorte#
+4002#Vital#
+4003#Difícil#
+4004#Destreza#
+4005#Santificado#
+4006#Por sorte#
+4007#Espectador#
+4008#Extra#
+4009#Luz#
+4010#Sensato#
+4011#Dinâmico#
+4012#Rígido#
+4013#Excelente#
+4014#de campeão#
+4015#Rápido#
+4016#Veloz#
+4017#Atordoar#
+4018#Esperto#
+4019#Mártir#
+4020#Piscar#
+4021#Hábil#
+4022#de esporo#
+4023#deserto#
+4024#Sonolento#
+4025#Apaixonado#
+4026#Astuto#
+4027#Atlético#
+4028#Força dupla#
+4029#Wolverine#
+4030#Ventoso#
+4031#de Marte#
+4032#de Athena#
+4033#Desintoxicação#
+4034#Esperto#
+4035#Sangrento#
+4036#Robusto#
+4037#Intocável#
+4038#Saudável#
+4039#de Aristóteles#
+4040#Teleporte#
+4041#de Sandman#
+4042#de Heman#
+4043#Furacão#
+4044#Se escondendo#
+4045#Pesado#
+4046#de clérigo#
+4047#Fantasma#
+4048#Poção#
+4049#Inflamável#
+4050#de Hermes#
+4051#de Flash#
+4052#Erudito#
+4053#Cura#
+4054#Piedosos#
+4055#Gelo#
+4056#de calor#
+4057#Silêncio#
+4058#Cranial#
+4059#de Cadi#
+4060#Clamoroso#
+4061#Imortal#
+4062#Envenom#
+4063#Inseticida#
+4064#Ágil#
+4065#Por baixo#
+4066#Brutal#
+4067#Atomic#
+4068#Químico#
+4069#Saharic#
+4070#de bruxa#
+4071#Angélico#
+4072#Sólido#
+4073#Desconto#
+4074#de Gargantua#
+4075#Hipnótico#
+4076#Maldição#
+4077#Em um elenco#
+4078#de recuperação#
+4079#de bigode#
+4080#Fisher#
+4081#Glorioso#
+4082#Gigantesco#
+4083#Homer#
+4084#Explosão#
+4085#Maldito#
+4086#Crítico#
+4087#Ordem#
+4088#Guarda#
+4089#Aqua#
+4090#Amuleto#
+4091#de contador#
+4092#Desossada#
+4093#Cura#
+4094#Kingbird#
+4095#Genie#
+4096#Venomer's#
+4097#Verde#
+4098#de Zephyrus#
+4099#de Ifrit#
+4100#Encantado com a alma#
+4101#de gnomo#
+4102#Zombando#
+4103#Clarividente#
+4104#Caos#
+4105#Descongelar#
+4106#Antigo#
+4107#Emplumado#
+4108#Inocente#
+4109#Flameguard#
+4110#Víbora#
+4111#Decussate#
+4112#Inigualável#
+4113#de fantasma#
+4114#Envenenamento#
+4115#Malicioso#
+4116#Divino#
+4117#Híbrido#
+4118#Dragão#
+4119#Mal#
+4120#de dragão#
+4121#Perfeito#
+4122#Adurate#
+4123#Portador#
+4124#Estucador#
+4125#Aqua#
+4126#Titã#
+4127#Insomniac#
+4128#de surdos#
+4129#de Rogue#
+4130#Divino#
+4131#Apressado#
+4132#de pedra preciosa#
+4133#Imune#
+4134#Espiritual#
+4135#Espelho#
+4136#do inferno#
+4137#de infinito#
+4138#Satânico#
+4139#de luar#
+4140#Libertação#
+4141#Mortal#
+4142#de Berserk#
+4143#Neutro#
+4144#de eternidade#
+4145#de Bigmouth#
+4146#Refletir#
+4147#Scythelike#
+4148#de Kirin#
+4149#de céu claro#
+4150#de resistir ao poder mágico#
+4151#de destruidor da natureza#
+4152#Suculento#
+4153#Câncer#
+4154#de cheiro de doce#
+4155#Goblin fatal#
+4156#Fatal Frame#
+4157#Golpe duro#
+4158#de abate#
+4159#Alto nível#
+4160#Alto nível#
+4161#Anti-Magia#
+4162#de cego#
+4163#Selvagem#
+4164#Pescador#
+4165#Ganho de alma de insetos#
+4166#de Jinx#
+4167#Beast Soul Gain#
+4168#de destruição#
+4169#de Mestre de Feitiço#
+4170#de endurecimento#
+4171#Escada#
+4172#Golpear#
+4173#de hipnotismo#
+4174#Deviant#
+4175#Empurrando#
+4176#Serpente fatal#
+4177#de pedra verde#
+4178#de mestre de arco#
+4179#de destaque#
+4180#Dragonic Soul Gain#
+4181#de silêncio#
+4182#Demonic Soul Gain#
+4183#Lobisomem#
+4184#Pausa#
+4185#da sabedoria#
+4186#Extenuante#
+4187#de noite sombria#
+4188#de pedra vermelha#
+4189#de infortúnio#
+4190#de criador de risos#
+4191#de fluxo de vida#
+4192#Peixes Naturais#
+4193#de paciência#
+4194#de Stun#
+4195#de pedra azul#
+4196#de Jellopy#
+4197#Alta Sorte#
+4198#de visão verdadeira#
+4199#de traço#
+4200#de resistir ao poder mágico#
+4201#Atordoamento atordoante#
+4202#Exorcismo#
+4203#Queimando#
+4204#Poacher's#
+4205#de azul cúbico#
+4206#Cúbico#
+4207#Anti-Pequeno#
+4208#de energia total#
+4209#de crack#
+4210#Pressão#
+4211#Especialista#
+4212#Batida nas costas#
+4213#de silêncio#
+4214#Comedor de homem#
+4215#de comida#
+4216#de congelar#
+4217#Cura Automática#
+4218#Pesadelo#
+4219#de Pedra Mágica#
+4220#Fiel#
+4221#Coletor de insetos#
+4222#de dormir#
+4223#Resistir Stun#
+4224#de dia chuvoso#
+4225#Tiroteio#
+4226#Alto nível#
+4227#de cheiro de carne#
+4228#de Siesta#
+4229#Mais rápido#
+4230#de covarde#
+4231#Carregamento#
+4232#Atualizar#
+4233#Petit Luck#
+4234#de espelho inoxidável#
+4235#Anjos caídos#
+4236#de proteção#
+4237#de ira de Deus#
+4238#de dupla potência#
+4239#Veteran Hunter's#
+4240#de resistir ao poder mágico#
+4241#Dois Sete da Sorte#
+4242#Alto nível#
+4243#de escape#
+4244#de apanhador#
+4245#Assassino#
+4246#Mate#
+4247#Estrelas do mar#
+4248#Shining Cross#
+4249#Exorcista#
+4250#Anti-grande#
+4251#Invadir#
+4252#de trevo de quatro folhas#
+4253#de guarda real#
+4254#Anti-Médio#
+4255#Esmagar#
+4256#Desejado#
+4257#Asa#
+4258#Prodígio#
+4259#da natureza#
+4260#Confusion Guard#
+4261#Guarda Sangrenta#
+4262#de dia nublado#
+4263#Desejo de Sangue#
+4264#Raio#
+4265#de amanhecer#
+4266#Resistir Magia#
+4267#Dragon Slayer#
+4268#Estendendo#
+4269#de pesadelo#
+4270#de veneno#
+4271#de pedra amarela#
+4272#Rápido#
+4273#Concha#
+4274#Undead Soul Gain#
+4275#Cabeça do assassino#
+4276#Crise#
+4277#de Mestre de tiro#
+4278#de resistir ao poder mágico#
+4279#de colecionador de almas#
+4280#de grande bênção#
+4281#Trabalha duro#
+4282#de poção#
+4283#Mana Sphere#
+4284#Toque gentil#
+4285#Castado por Elfo#
+4286#de pânico#
+4287#de resistir ao poder mágico#
+4288#Alto nível#
+4289#Ganho da alma da planta#
+4290#Refletir#
+4291#Fatal Kobold#
+4292#Fatal Plant#
+4293#Chance#
+4294#Sorrateiro#
+4295#de blecaute#
+4296#Ganância#
+4297#Caça furtiva#
+4298#de caos#
+4299#Guardião#
+4300#de acusação de veneno#
+4301#de sangramento#
+4302#de alto risco#
+4303#Místico#
+4304#de mestre de escudo#
+4305#Explosivo#
+4306#do rei#
+4307#Ganho de alma no mar#
+4308#Force Drain#
+4309#Capa Dura#
+4310#Fatal Evil#
+4311#Anti Evil Power#
+4312#Espírito#
+4313#de pântano#
+4314#Frame Guard#
+4315#de pedra maldição#
+4316#Angelic Soul Gain#
+4317#Aural#
+4318#Portador da Tempestade#
+4319#de mestre de espadas#
+4320#Meteoric#
+4321#de polimorfo#
+4322#de retaliação#
+4323#Geada#
+4324#Ártico#
+4325#Vicioso#
+4326#de cheiro de peixe#
+4327#Fluxo ortográfico#
+4328#Hyper#
+4329#Ganho da alma#
+4330#Elevador de enfermagem#
+4331#de Evade#
+4332#de talento#
+4333#de veneno caótico#
+4334#Anti-Sniping#
+4335#Gnomo#
+4336#de vitalidade#
+4337#de gato selvagem#
+4338#de comutação vital#
+4339#de muro de pedra#
+4340#de réquiem#
+4341#Desarmar#
+4342#Mamute#
+4343#de criador#
+4344#de valor#
+4345#Sylph#
+4346#de comutação de energia#
+4347#Energia#
+4348#Gangster#
+4349#Anti Arrow#
+4350#Undine#
+4351#Nível baixo#
+4352#de regeneração#
+4353#de rejuvenescimento#
+4354#de estabilidade#
+4355#Saudável#
+4356#Magic Cancel#
+4357#de fúria#
+4358#Perda de energia#
+4359#de sombra#
+4360#Assassino#
+4361#de Holgren#
+4362#Acertar#
+4363#Proteção#
+4364#de vedação mágica#
+4365#de tempestade#
+4366#de rodízio#
+4367#de aperto#
+4368#Rápido#
+4369#de comutação da sorte#
+4370#Enfraquecer#
+4371#de Paladino#
+4372#Life Stream#
+4373#Amaldiçoado#
+4374#de visão#
+4375#Extra nível superior#
+4376#Mana Pool#
+4377#de docinho#
+4378#Nível baixo#
+4379#Nível baixo#
+4380#Salamandra#
+4381#de andarilho#
+4382#de estudioso#
+4383#Caótico#
+4384#Comedor Mágico#
+4385#Beber#
+4386#de abrigo mágico#
+4387#de comutação de agilidade#
+4388#Alma#
+4389#Elementar#
+4390#Sangramento#
+4391#Lanche#
+4392#de troca de destreza#
+4393#de comutação de inteligência#
+4394#Divine Cross#
+4395#Slug#
+4396#Maçante#
+4397#Cabeça-grossa#
+4398#Trevas#
+4399#Penetração#
+4400#de tentação#
+4401#Rápido#
+4402#Estranho#
+4403#de recarregar#
+4404#de sangramento caótico#
+4405#de espelho mágico#
+4406#Cintilação#
+4407#de eliminação#
+4408#Abismo#
+4409#Pânico#
+4410#Loucura#
+4411#Arta#
+4412#Ária#
+4413#Resistência#
+4414#Gorgon#
+4415#Doce#
+4416#de Yana#
+4417#de fluxo#
+4418#de granizo#
+4419#Jack Frost's#
+4420#de conforto#
+4421#Chain Hook#
+4422#Brisa#
+4423#de Sharkia#
+4424#Pedregoso#
+4425#Fera#
+4426#Excedendo#
+4427#Força#
+4428#Eixo#
+4429#Nessus#
+4430#de Inferno#
+4431#Estigiano#
+4432#Escaldante#
+4433#de Ignis#
+4434#Mineiro#
+4435#Ultrajante, ultrajoso#
+4436#Lunático#
+4437#Raivoso#
+4438#Mental#
+4439#de anátema#
+4440#Ignorar#
+4441#Arrogante#
+4442#de base#
+4443#de saharic#
+4444#de embaixo#
+4445#de ventoso#
+4447#de ambiente#
+4448#de maldito#
+4449#de consagrado#
+4450#Excedente#
+4451#de excesso#
+4452#Mágico#
+4453#Violento#
+4454#Desculpa#
+4455#Ame#
+
+// Episode 14.1 Cards
+4456#Feitiço Mestre#
+4457#Psíquico#
+4458#de ilusão#
+4459#de rápido#
+4460#de cura#
+4461#de Sharp#
+4462#Prime Defense#
+4463#Prime Attack#
+4464#Fatal#
+4465#Varrer#
+4466#Tiro Reto#
+4467#Pesado#
+4468#Poluição#
+4469#Marinho#
+4470#Botânica#
+4471#Draco#
+4472#Carnívoro#
+4473#Morto-vivo#
+4474#Mortal#
+4475#Intangível#
+4476#Entomic#
+4477#Demoníaco#
+4478#Conte-me#
+4479#Por que você#
+
+// New Monster Cards 
+4505#de Bruxa Louca#
+4506#de Arqueiro#
+4507#Scaraba#
+4508#de Mad Berserker#
+4509#À prova de insetos#
+4510#Queda de energia#
+4511#Silentium#
+4512#de acólito#
+4513#de ladrão#
+4514#Exorcismo#
+4515#Flora#
+4516#de muro de pedra#
+4517#de mágico#
+4518#Queimando#
+4519#Serafim#
+4520#Gritando#
+4521#Mortal Blow#
+4522#Frio#
+4523#Aquário#
+4524#de Espadachim#
+4525#Varrendo#
+4526#de defesa mágica#
+4527#de defesa#
+4528#Poder mental#
+4529#Força#
+4530#de comerciante#
+4531#Sob maldição#
+4532#Corrida#
+4533#Cegando#
+4534#Bomba d'água#
+
+// Criatura Academy
+4545#Novato#
+
+4546#Parafusado#
+
+// October 2012 - Hero's Trail
+4556#Power Ward#
+4557#de poder mágico#
+
+// February 2013 - Temple of Demon God Memorial
+4559#Blitz#
+
+//4998#de valor#
+//4999#de Aegis#
+
+// June 2013 - Bio Labs F4 cards
+4560#de Bragi#
+4561#de proteção mágica#
+4562#de infiltração#
+4563#de ácido clorídrico#
+4564#de cavalheiro#
+4565#de Grand Cross#
+4566#de fortuna#
+4567#de bardo#
+4568#de gnose#
+4569#da origem#
+4570#de recuperação rápida#
+4571#de vinculação#
+4572#de solidez#
+4573#de Dancer#
+
+// Hall of Abyss cards
+4574#Mestre de espada#
+4575#Atalho#
+4576#Educe#
+4577#Psíquico#
+4578#Medo#
+4579#Estrela da Manhã#
+4580#de diabólico#
+4581#Banheiro#
+
+// Malaya cards
+4582#Energia#
+4583#de grama venenosa#
+4584#Vampiric#
+4585#Amaldiçoado#
+4586#de vento#
+4587#Slasher#
+4588#de poder#
+4589#de riqueza#
+4590#de desamparado#
+4591#de sangrenta#
+4592#de pedra maldição#
+
+// Eclage Cards
+4593#de atirador#
+4594#de golpe da morte#
+4595#de ácido#
+4596#de intelectual#
+4597#de água#
+4598#de telecinese#
+4599#de fogo#
+4600#de terra#
+
+// Glastheim memorial
+4601#de explosão#
+4602#de fúria#
+4603#Espírito maligno#
+4604#Deus maligno#
+4605#de fome#
+4606#de vingança#
+4607#Bibliotecário#
+4608#Cavaleiro#
+4609#Cavaleiro#
+
+// Sarah and Fenrir memorial
+4610#de abençoar#
+
+// Agustus 2014 Nightmare Clock Tower
+4625#Sábio#
+4626#Eco#
+4627#Vibração#
+4628#de horror invisível#
+4629#Estéril#
+4630#de Time Keeper#
+4631#Volant#
+4632#Atual#
+
+// January 2015 Episode 16.1
+4446#Afiar#
+4633#Queen Bird#
+4634#Fatal#
+4635#Sólido#
+4636#de legião#
+4637#de dreno#
+4638#Xadrez#
+4639#de força#
+4640#de inteligência#
+4641#de encontro de almas#
+
+// 20150616 jRO Nightmare Pyramid
+4652#Punição#
+4653Besta Imortal#
+4654#Tomb Raider#
+4655#Coveiro#
+4656#Hipnotizador#
+4657#Flamejante#
+4658#de mágica#
+
+// 2015 06 Infinite Dungeon
+4642#Side Step#
+4643#Greve#
+4644#Magic Shield#
+4645#Fisica#
+4646#Quimera#
+4647#Imortal#
+4648#Provocação#
+4649#Sopro fatal#
+4650#Magic Stun#
+4651#Monarca#
+
+// 2015 Doram race
+4659#Aventureiro#
+4660#de vontade#
+4661#de força#
+4662#Trindade#
+4663#Bonita#
+4664#Puro#
+4665#Querida#
+4666#Açúcar#
+4667#Despertar#
+4668#Seda#
+4669#Rajada#
+4670#Chama#
+
+// 2015 Nightmare Toy Factory Cards
+31016#de tristeza#
+31017#de ódio#
+31018#Frustração#
+31019#de frio#
+31020#de ira#
+31021#Loucura#
+31022#de desespero#
+31023#Maníaco#
+
+// 201512 Tomb of The Fallen Cards
+4671#Feiticeiro#
+4672#Sura's#
+4673#Minstrel's#
+4674#Guillotine Cross's#
+4675#Arcebispo#
+4676#Guardas#
+4677#Mecânica#
+4678#Bruxo#
+4679#Rune Knight's#
+4680#Guardas reais#
+4681#Geneticista#
+4682#Shadow Chaser#
+4683#Andarilho#
+4684#Cruz#
+4685#Adoramus#
+4686#Carmesim#
+4687#Grupo#
+4688#Power Storm#
+4689#Ignição#
+4690#Dirigir#
+4691#Neo Storm#
+4692#Varetyr#
+4693#Rampage Blaster#
+4694#Chamariz#
+4695#Tempestade#
+4696#Choque sonoro#
+
+// Episode 16.2
+31024#Volcanic Ball#
+31025#Mortal#
+31026#Auto Magic#
+
+// EP 15 Cards
+27012#Proteção ativa#
+27013#Vulcan#
+27014#Miragem#
+27015#Restaurar#
+27016#Todos Digitalizar#
+27017#Temporário#
+27018#Overclock#
+27019#Depurar#
+27020#Erro no sistema#
+4697#Sobrecarga#
+4698#Bumerangue#
+4699#Dual Cannon#
+
+// 2016 Friday Dungeon
+27025#Nobre#
+
+// Episode 14.1 field monster cards
+27026#Ardente#
+27027#Flamejante#
+27028#Searing#
+27029#Comedor de chamas#
+27030#Firebug#
+
+// 2016 12 Illusion of Moonlight
+27081#Luar#
+27082#Rabo#
+27083#de crescimento#
+27084#Arrepiante#
+27085#Delicado#
+27086#Atirador#
+27087#Verdade#
+27088#de agitação#
+
+// 2017 Illusion Geffen - Vampire
+27101#Feitiçaria#
+27102#Fogo Imune#
+27103#Vigor#
+27104#Compaixão#
+27105#Tristeza#
+
+// February 2017 Illusion of Frozen
+27110#Rápido#
+27111#Refrescante#
+27112#Resistente#
+27113#Congeladas#
+
+// April 2017 Brasilis Card
+27120#Recuperação#
+27121#Serrasalmus#
+27122#Maremoto#
+27123#Coletor de insetos#
+27124#Caçadores#
+27125#Aqua Benedict#
+27126#Pitão#
+
+// April 2017 Illusion of Turtle Island
+27114#Sólido#
+27115#Sensato#
+27116#Dual Critical#
+27117#Reduzir#
+27118#de Pierce#
+27119#de concha de tartaruga#
+
+// Episode 16.2 New cards
+27147#Intensivo#
+27148#Hábil#
+27149#Franco atirador#
+27150#de nível superior#
+27151#de congelamento#
+27152#Pronto#
+
+// 2017 July Nightmare Jitterbug
+27106#Músico#
+27107#Dançando#
+27108#Cantando#
+27109#de Jitterbug#
+
+// 2017 September Moscovia Card
+27157#de madeira aqua#
+27158#de Windiness#
+27159#Demon Hunter's#
+27160#Dodge#
+27161#Land Blast#
+27162#Roubar Almas#
+
+// 2017 September Hero's Trail part 1 Cards
+27163#de Abranchia#
+27164#Koya#
+27165#de Albion#
+27166#Prio#
+27167#Glacial#
+27168#de Padre#
+27169#Infantaria#
+
+// November Hunting contest
+27196#Heine#
+27197#Lugenburg#
+27198#Wigner#
+27199#Nerius#
+27200#Nihil#
+27201#Agnes#
+27202#Jurgen#
+27203#Spica#
+27330#Kronecker#
+27331#de Granz Heine#
+27332#Skia's#
+27333#de Nerius brilhante#
+
+// 2018 January Hero's Trail part 2 Cards
+27181#Bane Band#
+27182#Hammer Shooter#
+27183#Investida#
+27184#Salvação#
+
+// 28 new cards
+27170#de poeira#
+27171#de pôr do sol#
+27172#Espada afiada#
+27173#Poeirento#
+27174#Pôr do sol#
+27175#Caçador pequeno#
+27176#de sujo#
+27177#de Marsh#
+27178#de Zero Guard#
+27249#Airi#
+27179#de presa selvagem#
+27250#Anemos#
+27180#Freio de força#
+27251#Gangster#
+27252#Bully#
+27253#Shoplifter#
+27254#Faymont#
+27255#Ordre#
+27256#Haase#
+27257#Akuma#
+27258#Ifodes#
+27259#Líquenias#
+27260#Odorico#
+27261#Ju#
+27262#Dwigh#
+27263#Kanavian#
+27264#de sombra do mal#
+27265#Fanático do Mal#
+
+// Illusion of Teddy Bear
+27286#Brincando#
+27287#de linimento#
+27288#de trabalhador#
+27289#Adequado#
+27290#de obsidiana#
+
+// Illusion of Ruanda
+27291#Carga completa#
+27292#de estalagmático#
+27293#Circular#
+27294#de pedra grande#
+27295#de atirador de pedra#
+27296#de Wootan Shooter#
+27297#Wootan Fist#
+27298#de Big Shield#
+
+// 2018 Episode 17.1 cards
+27304#Saudável#
+27305#Hell Inferno#
+27306#Dança de Fogo#
+27307#Viagem pesada#
+27308#Sagrado#
+27309#de poder sagrado#
+27310#de imortal#
+27311#Huck Knuckle#
+27312#Piercing do mal#
+27313#Power Fist#
+27314#Caçador de Animais#
+27315#Caçador de Magia Animal#
+27316#Anti Poison#
+27317#Piercing natural#
+27318#de Tiger Power#
+27319#Poison Break#
+27320#Fogo aprimorado#
+
+// Edda Glast
+27329#de Schmidt#
+
+// Episode 14.3 Morocc Cards
+27325#Muspelheim#
+27326#Destrutivo#
+27327#Reaper Ankou#
+27321#de demônio#
+27328#Corrupted Life's#
+27322#Dominator#
+27323##Do coordenador
+27324#Brinarnea#
+
+// Illusion of Labyrinth Cards
+27334#de caótico#
+27335#de guarda negra#
+27336#de Viper#
+27337#Brisa de caça#
+27338#de potência dupla#
+27339#Fantasma#
+27340#de assassino zangado#
+27341#de concha de água#
+27342#Metal Ground#
+27343#Feitiço Sagrado#
+
+// Abyss and Nogg F3
+27346#de uivo#
+27347#Crack#
+27348#Nenhum desgaste#
+27349#de barreira da chama#
+27350#de espírito do dragão#
+27351#de coração do dragão#
+27352#Dormir#
+27353#de barreira demoníaca#
+27354#de depreciar#
+27355#Depravado#
+27356#de guarda congelada#
+27357#de luva suja#
+27358#Quebra#
+27359#Cold Magic#
+27360#Fire Magic#
+27361#Lâmina pesada#
+27362#de rainha aranha#
+27363#Doom#
+
+// Sealed Boss Cards
+4480#de meia recarga#
+4481#Meio Jack Frost#
+4482#de meia regeneração#
+4483#Metade Espiritual#
+4484#de meia pedra preciosa#
+4485#Meio Abismo#
+4486#de meio Bigmouth#
+4487#Meio Inferno#
+4488#de meia desgraça#
+4489#de meio Kirin#
+4490#Meias#
+4491#de meio aperto#
+4492#Meio Neutro#
+4493#Meio risco alto#
+4494#Meia Explosiva#
+4495#de meia proteção#
+4496#de meio infinito#
+4497#Meio-portador da tempestade#
+4498#Meia Piscina de Mana#
+4499#Meia sede de sangue#
+4500#Metade Espelho#
+4501#Meia Proteção#
+4502#Half Holgren#
+4503#de meia visão#
+4504#Meio Portador#
+4536#Meia Besta#
+4537#Meia Perfeita#
+4538#Meia vida Stream#
+4539#Meia Arrogante#
+4540#Meia Crise#
+4541#de meia tempestade#
+4542#de meio abrigo mágico#
+4543#Metade do Ártico#
+4544#Meio elevador da maldição#
+4547#Meio superior a#
+4548#Meio Nessus#
+4549#de meia visão verdadeira#
+4550#Semi-eixo#
+
+27209#Meia Scaraba#
+27210#Meia penetração#
+27211#Metade Scythelike#
+27212#Meio refletir#
+27213#de meio bragi#
+27214#de meia proteção mágica#
+27215#de meia infiltração#
+27216#de meio ácido clorídrico#
+27217#de meio cavalheiro#
+27218#de Meia Grã-Cruz#
+27219#de meia fortuna#
+27220#Mestre Espada Mestre#
+27221#Meio Educe#
+27222#Meio Medo#
+27224#de meio diabólico#
+27225#Meio-sábio#
+
+// jRO cards
+4623#11º aniversário#
+27000#de tristeza#
+27001#de ódio#
+27002#de frustração#
+27003#de frio#
+27004#de ira#
+27005#de loucura#
+27006#de desespero#
+27007#de riso#
+27008#Vampiro#
+27009#Deus maligno#
+27010#Cavaleiro#
+27011#Cavaleiro#
+27021#Brick King#
+27022#de barreira da chama#
+27023#Milk Master#
+27024#Coelho#
+27031#Extenso#
+27032#Astral#
+27033#Madman's#
+27034#Rajada#
+27035#Torcido#
+27036#Afiado#
+27037#Queen Bird#
+27038#Espinho#
+27039#de Grande Fugitivo#
+27040#Brinicle#
+27041#Alta tensão#
+27042#de interrupção#
+27043#de Mudd Candy#
+27044#de Mudd Sherbet#
+27045#de encontro de almas#
+27050#Dual Mirage#
+27051#Espiritual duplo#
+27052#Baleia dupla#
+27053#Dual Jungle#
+27054#Dual Genie#
+27055#de Feiticeiro#
+27056#de Sura#
+27057#de Menestrel#
+27058#de cruz guilhotina#
+27059#de Arc Bishop#
+27060#de guarda florestal#
+27061#de mecânico#
+27062#de Warlock#
+27063#de Rune Knight#
+27064#de guarda real#
+27065#de Geneticista#
+27066#de Caçador de Sombras#
+27067#de andarilho#
+27068#Venom Pressure#
+27069#Judex#
+27070#Cometa#
+27071#Grupo#
+27072#Magma#
+27073#Ignição#
+27074#Dirigir#
+27075#Louco#
+27076#Cloud Kill#
+27077#Leão#
+27078#Triângulo#
+27079#Reverberação#
+27080#Vibração#
+27089#System Boost#
+27090#de Mad Wizard#
+27091#de guerreiro louco#
+27092#Overclocking#
+27093#de Sniper#
+27094#de físico#
+27095#de Biscoito Louco#
+27096#de especialista#
+27097#de Angelman#
+27098#Justiceiro#
+27099#Juízes#
+27100#de aplauso#
+27127#de abismo#
+27128#Sangue antigo#
+27129#Cem#
+27130#Expansão#
+27131#Tempestade de flechas#
+27132#Canhão#
+27133#Rolando#
+27134#Adoramus#
+27135#Over Brand#
+27136#Pó de diamante#
+27137#Tempestade#
+27138#Tornado#
+27139#Bombear#
+27140#de céu e terra#
+27141#Vulcânico#
+27142#Assalto#
+27143#de Vale da Morte#
+27144#Elementar#
+27145#de impacto profundo#
+27146#Cutie#
+27185#Funil#
+27186#de blefe#
+27187#of frame#
+27188#Trigger Happy#
+27189#Corredor de carros#
+27190#de barreira de gelo#
+27191#de guarda de névoa#
+27192#Force of Mind#
+27194#Impulsionar a magia#
+27195#Power Boost#
+27223#de aventureiro#
+27226#de vontade#
+27227#de difícil#
+27228#de Trindade#
+27229#Bonita#
+27230#Puro#
+27231#Querida#
+27232#Açúcar#
+27233#Despertar#
+27234#Seda#
+27235#Rajada#
+27236#Chama#
+27237#Transformação#
+27238#Não organizado#
+27239#de barreira do vento#
+27240#Habitação#
+27241#Jato#
+27242#de Elder#
+27243#de soldado#
+27244#Cantar#
+27245#Executar#
+27246#Forte#
+27247#Fortíssimo#
+27248#Fantasma#
+27301#de Berserk#
+29230#Tainy Ale#
+29363#Fogo ardente#
+31000#do banheiro#
+31001#Estrela da Manhã#
+31002#Psíquico#
+31003#Vai#
+31004#Twister#
+31005#Mestre de espada#
+31006#de louvor ao senhor da morte#
+31007#de Rancor Imortal#
+31008#Amuleto do Espírito#
+31009#de música de desejo#
+31010#Shubha ~~~ n!#
+31011#Kimakima Time#
+31012#Dragon Fear#
+31013#Mega Flare#
+31014#de Golden End#
+31015#de Deus do destino#
+
+// Client enhancement based on jRO
+// (note: You need to uncomment the required itemID in cardpostfixnametable.txt as well to activate it)
+// Uncomment all lines below to activate it
+//4700#<Str + 1>#
+//4701#<Str + 2>#
+//4702#<Str + 3>#
+//4703#<Str + 4>#
+//4704#<Str + 5>#
+//4705#<Str + 6>#
+//4706#<Str + 7>#
+//4707#<Str + 8>#
+//4708#<Str + 9>#
+//4709#<Str + 10>#
+//4710#<Int + 1>#
+//4711#<Int + 2>#
+//4712#<Int + 3>#
+//4713#<Int + 4>#
+//4714#<Int + 5>#
+//4715#<Int + 6>#
+//4716#<Int + 7>#
+//4717#<Int + 8>#
+//4718#<Int + 9>#
+//4719#<Int + 10>#
+//4720#<Dex + 1>#
+//4721#<Dex + 2>#
+//4722#<Dex + 3>#
+//4723#<Dex + 4>#
+//4724#<Dex + 5>#
+//4725#<Dex + 6>#
+//4726#<Dex + 7>#
+//4727#<Dex + 8>#
+//4728#<Dex + 9>#
+//4729#<Dex + 10>#
+//4730#<Agi + 1>#
+//4731#<Agi + 2>#
+//4732#<Agi + 3>#
+//4733#<Agi + 4>#
+//4734#<Agi + 5>#
+//4735#<Agi + 6>#
+//4736#<Agi + 7>#
+//4737#<Agi + 8>#
+//4738#<Agi + 9>#
+//4739#<Agi + 10>#
+//4740#<Vit + 1>#
+//4741#<Vit + 2>#
+//4742#<Vit + 3>#
+//4743#<Vit + 4>#
+//4744#<Vit + 5>#
+//4745#<Vit + 6>#
+//4746#<Vit + 7>#
+//4747#<Vit + 8>#
+//4748#<Vit + 9>#
+//4749#<Vit + 10>#
+//4750#<Luk + 1>#
+//4751#<Lucas + 2>#
+//4752#<Luk + 3>#
+//4753#<Lucas + 4>#
+//4754#<Lucas + 5>#
+//4755#<Lucas + 6>#
+//4756#<Lucas + 7>#
+//4757#<Lucas + 8>#
+//4758#<Lucas + 9>#
+//4759#<Lucas + 10>#
+//4760#<MatkLv1>#
+//4761#<MatkLv2>#
+//4762#<Fuja + 6>#
+//4763#<Fuja + 12>#
+//4764#<Crit + 5>#
+//4765#<Crit + 7>#
+//4766#<Atk + 2%>#
+//4767#<Atk + 3%>#
+//4768#<Str + 1>#
+//4769#<Str + 2>#
+//4770#<Str + 3>#
+//4771#<Int + 1>#
+//4772#<Int + 2>#
+//4773#<Int + 3>#
+//4774#<Vit + 1>#
+//4775#<Vit + 2>#
+//4776#<Vit + 3>#
+//4777#<Agi + 1>#
+//4778#<Agi + 2>#
+//4779#<Agi + 3>#
+//4780#<Dex + 1>#
+//4781#<Dex + 2>#
+//4782#<Dex + 3>#
+//4783#<Luk + 1>#
+//4784#<Lucas + 2>#
+//4785#<Luk + 3>#
+//4786#<Mdef + 2>#
+//4787#<Mdef + 4>#
+//4788#<Mdef + 6>#
+//4789#<Mdef + 8>#
+//4790#<Mdef + 10>#
+//4791#<Def + 3>#
+//4792#<Def + 6>#
+//4793#<Def + 9>#
+//4794#<Def + 12>#
+//4795#<HP + 100>#
+//4796#<HP + 200>#
+//4797#<HP + 300>#
+//4798#<HP + 400>#
+//4799#<HP + 500>#
+//4800#<SP + 50>#
+//4801#<SP + 100>#
+//4802#<SP + 150>#
+//4803#<CureLv1>#
+//4804#<BasilicaLv1>#
+//4805#<ArchbishopLv1>#
+//4806#<MatkLv3#
+//4807#<Aspd + 1>#
+//4808#<FightingSpiritLv4>#
+//4809#<FightingSpiritLv3>#
+//4810#<FightingSpiritLv2>#
+//4811#<FightingSpiritLv1>#
+//4812#<SpellLv4>#
+//4813#<SpellLv3>#
+//4814#<SpellLv2>#
+//4815#<SpellLv1>#
+//4816#<SharpLv3>#
+//4817#<SharpLv2>#
+//4818#<SharpLv1>#
+//4819#<Atk + 1%>#
+//4820#<FightingSpiritLv5>#
+//4821#<FightingSpiritLv6>#
+//4822#<FightingSpiritLv7>#
+//4823#<FightingSpiritLv8>#
+//4824#<FightingSpiritLv9>#
+//4825#<FightingSpiritLv10>#
+//4826#<SpellLv5>#
+//4827#<SpellLv6>#
+//4828#<SpellLv7>#
+//4829#<SpellLv8>#
+//4830#<SpellLv9>#
+//4831#<SpellLv10>#
+//4832#<ExpertArcherLv1>#
+//4833#<ExpertArcherLv2>#
+//4834#<ExpertArcherLv3>#
+//4835#<ExpertArcherLv4>#
+//4836#<ExpertArcherLv5>#
+//4837#<ExpertArcherLv6>#
+//4838#<ExpertArcherLv7>#
+//4839#<ExpertArcherLv8>#
+//4840#<ExpertArcherLv9>#
+//4841#<ExpertArcherLv10>#
+//4842#<ASPD + 2>#
+//4843#<SharpLv4>#
+//4844#<SharpLv5>#
+//4845#<CobbleStone>#
+//4846#<FullyLovedStone>#
+//4847#<SpelledStone>#
+//4848#<ImmuneLv1>#
+//4849#<CranialLv1>#
+//4850#<ArchbishopLv3>#
+//4851#<ArchbishopLv4>#
+//4852#<ArchbishopLv5>#
+//4853#<SpecialSTR>#
+//4854#<SpecialAGI>#
+//4855#<SpecialVIT>#
+//4856#<SpecialINT>#
+//4857#<SpecialDEX>#
+//4858#<SpecialLUK>#
+//4859#<Fugir + 1>#
+//4860#<Fuja + 3>#
+//4861#<MaxHP + 1%>#
+//4862#<MaxHP + 2%>#
+//4863#<FatalLv1>#
+//4864#<FatalLv2>#
+//4865#<FatalLv3>#
+//4866#<FatalLv4>#
+//4867#<MaxHP + 3%>#
+//4868#<MaxHP + 4%>#
+//4869#<DelayAfterAttackLv1>#
+//4870#<SP + 25>#
+//4871#<SP + 75>#
+//4872#<DelayAfterAttackLv2>#
+//4873#<DelayAfterAttackLv3>#
+//4874#<BerylSpring>#
+//4875#<Poder do Urso>#
+//4876#<Magia em Fuga>#
+//4877#<Velocidade da luz>#
+//4878#<Tolo Muscular>#
+//4879#<Olho de Falcão>#
+//4880#<Dia da Sorte>#
+//4881#<DelayAfterAttackLv4>#
+//4882#<Atk + 1%>#
+//4883#<Matk + 1%>#
+//4884#<Hit + 1>#
+//4885#<SpellLv1>#
+//4886#<SpellLv2>#
+//4887#<SpellLv3>#
+//4888#<SpellLv4>#
+//4889#<SpellLv5>#
+//4890#<Mdef + 1>#
+//4891#<Mdef + 3>#
+//4892#<Mdef + 5>#
+//4893#<Def + 15>#
+//4894#<Atk + 4%>#
+//4895#<Atk + 5%>#
+//4896#<Matk + 2%>#
+//4897#<Matk + 3%>#
+//4898#<Matk + 4%>#
+//4899#<Matk + 5%>#
+//4900#<MaxHP + 5%>#
+//4901#<Mdef + 7>#
+//4902#<Def + 18>#
+//4903#<Def + 21>#
+//4904#<ATK + 6%>#
+//4905#<ATK + 7%>#
+//4906#<MATK + 6%>#
+//4907#<MATK + 7%>#
+//4908#<STR1 do demônio>#
+//4909#<STR2 do demônio>#
+//4910#<STR3 do demônio>#
+//4911#<INT1 do demônio>#
+//4912#<INT2 do demônio>#
+//4913#<INT3 do demônio>#
+//4914#<AGI1 do demônio>#
+//4915#<AGI2 do demônio>#
+//4916#<AGI3 do Demônio>#
+//4917#<VIT1 do demônio>#
+//4918#<VIT2 do demônio>#
+//4919#<VIT3 do demônio>#
+//4920#<DEX1 do Demônio>#
+//4921#<DEX2 do Demônio>#
+//4922#<DEX3 do Demônio>#
+//4923#<LUK1 do demônio>#
+//4924#<LUK2 do demônio>#
+//4925#<LUK3 do demônio>#
+//4926#<CritLv1>#
+//4927#<HP50>#
+//4928#<SP10>#
+//4929#<MaxSP + 1%>#
+//4930#<Recovery10>#
+//4931#<Healing10>#
+//4932#<SPRecovery1#
+//4933#<NeutralResistanceLv1>#
+//4934#<NeutralResistanceLv2>#
+//4935#<NeutralResistanceLv3>#
+//4936#<LargeAttack1>#
+//4937#<MediumAttack1>#
+//4938#<SmallAttack1>#
+//4939#<CritLv2>#
+//4940#<CritLv3>#
+//4941#<CritLv3>#
+//4942#<PerfectDodge + 3>#
+//4943#<PerfectDodge + 4>#
+//4944#<PerfectDodge + 5>#
+//4945#<Custo de SP-2%>#
+//4946#<Custo de SP-4%>#
+//4947#<Custo de SP-6%>#
+//4948#<AfterSkillDelayLv1>#
+//4949#<AfterSkillDelayLv2>#
+//4950#<AfterSkillDelayLv3>#
+//4951#<Queda das Trevas>#
+//4952#<Queda de Fogo>#
+//4953#<Gota d'água>#
+//4954#<Queda de árvore>#
+//4955#<Queda de luz>#
+//4956#<Queda de Cura>#
+//4957#<Poder da Raposa>#
+//4958#<Gemini>#
+//4959#<Sagitário>#
+//4960#<Aquarius>#
+//4961#<Áries>#
+//4962#<Cancer>#
+//4963#<Taurus>#
+//4964#<Capricórnio>#
+//4965#<Pisces>#
+//4966#<Escorpião>#
+//4967#<Leo>#
+//4968#<Virgo>#
+//4969#<Libra>#
+//4970#<E-Fire>#
+//4971#<E-Water>#
+//4972#<E-Ground>#
+//4973#<E-Wind>#
+//4974#<R-Fire>#
+//4975#<R-Water>#
+//4976#<R-Ground>#
+//4977#<R-Wind>#
+//4978#<C-Life>#
+//4979#<C-Soul>#
+//4980#<C-HPR>#
+//4981#<C-SPR>#
+//4982#<A-Str>#
+//4983#<A-Int>#
+//4984#<A-Def>#
+//4985#<A-Avoid>#
+//4986#<A-Atk>#
+//4987#<A-Matk>#
+//4988#<A-MaxHP>#
+//4989#<A-MaxSP>#
+//4990#<A-Frozen>#
+//4991#<A-ASPD>#
+//4992#<HPAbsorb1>#
+//4993#<SPAbsorb1>#
+//4994#<Neev de STR1>#
+//4995#<Neev de STR2>#
+//4996#<Neev of STR3>#
+//4997#<Neev of AGI1>#
+//4998#<Neev of AGI2>#
+//4999#<Neev of AGI3>#
+//25409#<Campeão da Pedra Superior>#
+//25410#<Campeão da Pedra Média>#
+//25411#<Pedra do Campeão Inferior>#
+//25412#<Vestuário em Pedra Sura>#
+//25413#<Sniper Stone Upper>#
+//25414#<Sniper Stone Mid>#
+//25415#<Atirador de pedras inferior>#
+//25416#<Vestuário em Pedra do Arqueiro>#
+//25417#<Professor Stone Superior>#
+//25418#<Professor Stone Mid>#
+//25419#<Professor Pedra Inferior>#
+//25420#<Vestuário de Pedra Feiticeira>#
+//25434#<Z-Knockback ????#
+//25435#<Z-Imortal ????#
+//25436#<Z-Killgain ????#
+//25437#<Reencarnação Z ????#
+//25438#<Z-NoDispell ????#
+//25439#<Z-Clarividência ????#
+//25440#<Z-CastFixed ????#
+//25441#<??????? <·
+//25442#<???????#
+//25443#<???? E ????#
+//25444#<??? <X? <·
+//25445#<Senhor Cavaleiro Pedra Superior>#
+//25446#<Lorde Cavaleiro de Pedra Meados>#
+//25447#<Senhor Cavaleiro Pedra Inferior>#
+//25448#<Vestuário de Pedra do Cavaleiro Rúnico>#
+//25449#<Vestuário de Pedra Geneticista>#
+//25450#<Parte superior da pedra do criador>#
+//25451#<Pedra do criador central>#
+//25452#<Pedra do Criador Inferior>#
+//25453#<Pedra Mágica Alta Superior>#
+//25454#<Pedra Mágica Alta Mágica>#
+//25455#<Pedra Mágica Alta Inferior>#
+//25456#<Vestuário de Pedra Bruxa>#
+//25490#<Parte Superior da Pedra do Espreitador>#
+//25491#<Pedra do Espreitador Médio>#
+//25492#<Pedra do Espreitador Inferior>#
+//25493#<Vestuário de Pedra do Caçador Sombrio>#
+//25494#<Parte superior da pedra Whitesmith>#
+//25495#<Pedra Whitesmith Mid>#
+//25496#<Pedra da Pedra Branca de Whitesmith>#
+//25497#<Vestuário em Pedra Mecânica>#
+//25498#<Palhaço de Pedra Cigana>#
+//25499#<Palhaço Cigano Meados de>>
+//25500#<Pedra Cigana do Palhaço Inferior>#
+//25501#<Vestuário de Pedra Wandermins>#
+//25670#<Módulo Mod? ·#
+//25671#<Módulo Mod ?????? ·#
+//25672#<Módulo Mod VIT>#
+//25673#<Módulo Mod LUK>#
+//25674#<Módulo Mod STR>#
+//25675#<Módulo Mod AGI>#
+//25676#<Módulo Mod INT>#
+//25677#<Módulo Mod DEX>#
+//25678#<Mod Module HP ??????>#
+//25679#<Mod Module SP ??????>#
+//25680#<Módulo Mod ????>#
+//25681#<Mod Module ???????>#
+//25682#<Módulo Mod ??? ·#
+//25683#<Módulo Mod ???>#
+//25684#<Módulo Mod ????>#
+//25685#<Mod Module ??????>#
+//25686#<Módulo Mod? ·#
+//25687#<Módulo Mod ?????>#
+//25688#<Mod Module ??????>#
+//25689#<Módulo Mod ??? ·#
+//25690#<Módulo Mod ????>#
+//25691#<Mod Module ??????>#
+//25692#<Mod Module ????????>#
+//25693#<Habilidade do módulo Mod após atraso>#
+//25694#<Mod Module Tempo fixo de lançamento>#
+//25695#<Módulo Mod ???? · ??>#
+//25696#<Módulo Mod ????? ?????>#
+//25697#<Módulo Mod ????? ??? ·#
+//25698#<Módulo Mod ??? · ???>#
+//25699#<Módulo Mod ??? · ??? ·#
+//25700#<Módulo Mod ????? ??????>#
+//25701#<Mod Module ??? · ?????>#
+//25702#<Mod Módulo de Disparo>#
+//25703#<Mod Module Over Power>#
+//25704#<Flash Fatal do Módulo Mod>#
+//25705#<Mod Module Lucky Strike>#
+//25706#<Pedra do Sumo Sacerdote>#
+//25707#<Pedra do Sumo Sacerdote>#
+//25708#<Pedra do Sumo Sacerdote>#
+//25709#<Arcebispo Stone>#
+//25710#<Pedra do Paladino>#
+//25711#<Pedra do Paladino>#
+//25712#<Pedra do Paladino>#
+//25713#<Pedra da Guarda Real>#
+//25714#<Pedra da Cruz do Assassino>#
+//25715#<Pedra da Cruz do Assassino>#
+//25716#<Pedra da Cruz do Assassino>#
+//25717#<Pedra da Cruz da Guilhotina>#
+//27046#<Virgo>#
+//27047#<Pedaço de Virgem>#
+//27048#<Leo>#
+//27049#<Pedaço de Leão>#
+//27155#<Cancer>#
+//27156#<Taurus>#
+//27204#<Gemini>#
+//27205#<Sagitário>#
+//27299#<Surpentarius>#
+//27300#<Aquarius>#
+//27302#<Libra>#
+//27303#<Escorpião>#
+//29000#<Neev of INT1>#
+//29001#<Neev of INT2>#
+//29002#<Neev of INT3>#
+//29003#<Neev de DEX1>#
+//29004#<Neev of DEX2>#
+//29005#<Neev of DEX3>#
+//29006#<Neev of LUK1>#
+//29007#<Neev of LUK2>#
+//29008#<Neev of LUK3>#
+//29009#<Neev of VIT1>#
+//29010#<Neev of VIT2>#
+//29011#<Neev of VIT3>#
+//29012#<Nível superior>#
+//29013#<HPAbsorb3>#
+//29014#<STR + 3 INT-3>#
+//29015#<STR + 3 DEX-3>#
+//29016#<INT + 3 DEX-3>#
+//29017#<INT + 3 VIT-3>#
+//29018#<DEX + 3 VIT-3>#
+//29019#<DEX + 3 AGI-3>#
+//29020#<VIT + 3 AGI-3>#
+//29021#<VIT + 3 LUK-3>#
+//29022#<AGI + 3 LUK-3>#
+//29023#<AGI + 3 STR-3>#
+//29024#<LUK + 3 STR-3>#
+//29025#<LUK + 3 INT-3>#
+//29026#<DEF + 20>#
+//29027#<EXP + 2%>#
+//29028#<ATK + 1%>#
+//29029#<ATK + 1%>#
+//29030#<MATK + 1%>#
+//29031#<MATK + 1%>#
+//29032#<SPAbsorb1>#
+//29033#<MDEF + 4>#
+//29040#<Efeito fantasma>#
+//29041#<Efeito cintilante>#
+//29042#<Dragão Guardião>#
+//29043#<Valkyrie>#
+//29044#<Gale>#
+//29045#<Hayate>#
+//29046#<Greed>#
+//29047#<Fatal>#
+//29048#<Arqueiro Especialista>#
+//29049#<HP + 100>#
+//29050#<SP + 50>#
+//29051#<Desintoxicar>#
+//29052#<Recuperação>#
+//29053#<AfterSkillDelayLv1>#
+//29054#<AfterSkillDelayLv1>#
+//29055#<AfterSkillDelayLv1>#
+//29056#<Reduzir elenco fixo>#
+//29057#<Kyrie Eleison>#
+//29058#<Fluxo Tappi>#
+//29059#<Assobio>#
+//29060#<Origem do Universo>#
+//29061#<MettleLv1>#
+//29062#<MettleLv2>#
+//29063#<MettleLv3>#
+//29064#<MettleLv4>#
+//29065#<MettleLv5>#
+//29066#<MettleLv6>#
+//29067#<MettleLv7>#
+//29068#<MettleLv8>#
+//29069#<MettleLv9>#
+//29070#<MettleLv10>#
+//29071#<MagicEssenceLv1>#
+//29072#<MagicEssenceLv2>#
+//29073#<MagicEssenceLv3>#
+//29074#<MagicEssenceLv4>#
+//29075#<MagicEssenceLv5>#
+//29076#<MagicEssenceLv6>#
+//29077#<MagicEssenceLv7>#
+//29078#<MagicEssenceLv8>#
+//29079#<MagicEssenceLv9>#
+//29080#<MagicEssenceLv10>#
+//29081#<AcuteLv1>#
+//29082#<AcuteLv2>#
+//29083#<AcuteLv3>#
+//29084#<AcuteLv4>#
+//29085#<AcuteLv5>#
+//29086#<AcuteLv6>#
+//29087#<AcuteLv7>#
+//29088#<AcuteLv8>#
+//29089#<AcuteLv9>#
+//29090#<AcuteLv10>#
+//29091#<ArchLineLv1>#
+//29092#<ArchLineLv2>#
+//29093#<ArchLineLv3>#
+//29094#<ArchLineLv4>#
+//29095#<ArchLineLv5>#
+//29096#<ArchLineLv6>#
+//29097#<ArchLineLv7>#
+//29098#<ArchLineLv8>#
+//29099#<ArchLineLv9>#
+//29100#<ArchLineLv10>#
+//29101#<AdamantineLv1>#
+//29102#<AdamantineLv2>#
+//29103#<AdamantineLv3>#
+//29104#<AdamantineLv4>#
+//29105#<AdamantineLv5>#
+//29106#<AdamantineLv6>#
+//29107#<AdamantineLv7>#
+//29108#<AdamantineLv8>#
+//29109#<AdamantineLv9>#
+//29110#<AdamantineLv10>#
+//29111#<AffectionLv1>#
+//29112#<AffectionLv2>#
+//29113#<AffectionLv3>#
+//29114#<AffectionLv4>#
+//29115#<AffectionLv5>#
+//29116#<AffectionLv6>#
+//29117#<AffectionLv7>#
+//29118#<AffectionLv8>#
+//29119#<AffectionLv9>#
+//29120#<AffectionLv10>#
+//29121#<Deusa da Justiça A>#
+//29122#<Deusa da Justiça S>#
+//29123#<Deusa da Misericórdia A>#
+//29124#<Deusa da Misericórdia S>#
+//29125#<Deusa da Visão A>#
+//29126#<Deusa da Visão S>#
+//29127#<Lótus Vermelho>#
+//29128#<Brass>#
+//29129#<Prata>#
+//29130#<Crepúsculo>#
+//29131#<Chaos>#
+//29132#<Amanhecer>#
+//29133#<Restaurar>#
+//29134#<Mente Cruel do Campeão>#
+//29135#<SharpLv1>#
+//29136#<SharpLv2>#
+//29137#<SharpLv3>#
+//29138#<SharpLv4>#
+//29139#<SharpLv5>#
+//29140#<Raiva de bravo>#
+//29141#<Rugido da Bruxa>#
+//29142#<Efeito elétrico>#
+//29143#<Efeito reflexo verde>#
+//29144#<Efeito Encolher> ??#
+//29145#<Experiência + 2%>#
+//29146#<Avaliação de item>#
+//29147#<Ressurection>#
+//29148#<Leo Stone>#
+//29149#<Pedra de Peixes#>
+//29150#<Pedra de Capricórnio>#
+//29151#<Pedra de Aquário>#
+//29152#<Pedra de Escorpião>#
+//29153#<Pedra do Touro>#
+//29154#<Menor redução de elenco fixo>#
+//29155#<Lex Aeterna>#
+//29156#<Reduzir conversão variável>#
+//29157#<Reduzir conversão variável>#
+//29158#<Reduzir conversão variável>#
+//29159#<Experiência + 2%>#
+//29160#<Efeito Aura Azul>#
+//29161#<Efeito Brilho Rosa>#
+//29162#<Efeito de sombra>#
+//29166#<A-Tolerance>#
+//29167#<A-Hit>#
+//29168#<A-Flee>#
+//29169#<A-Mdef>#
+//29170#<S-Atk>#
+//29171#<S-Matk>#
+//29172#<S-Avoid>#
+//29173#<S-MaxHP>#
+//29174#<S-Quick>#
+//29175#<S-Cri>#
+//29176#<Tenchi>#
+//29177#<Bênção dos Sonhos1>#
+//29178#<Bênção dos Sonhos2>#
+//29179#<Bênção dos Sonhos3>#
+//29180#<Bênção dos Sonhos4>#
+//29181#<Bênção dos Sonhos5>#
+//29182#<Moldura Letal>#
+//29183#<Mortos-vivos letais>#
+//29184#<Besta Letal>#
+//29185#<Planta Letal>#
+//29186#<Inseto Letal>#
+//29187#<Peixe Letal>#
+//29188#<Demônio Letal>#
+//29189#<Humano Letal>#
+//29190#<Anjo Letal>#
+//29191#<Dragão Letal>#
+//29192#<Normal Mortal>#
+//29193#<Água de argamassa>#
+//29194#<Terreno Mortal>#
+//29195#<Chama Mortal>#
+//29196#<Vento Mortal>#
+//29197#<Veneno Mortal>#
+//29198#<Santo Mortal>#
+//29199#<Mal Mortal>#
+//29200#<Telecinesia Mortal>#
+//29201#<Mortos-vivos Mortos>#
+//29202#<Fatal Pequeno>#
+//29203#<Meio Fatal>#
+//29204#<Grande Fatal>#
+//29205#<Nêmesis Fatal>#
+//29206#<Olho de Boi>#
+//29207#<Dreno Vital>#
+//29208#<SPabsorp2>#
+//29209#<SPabsorp2>#
+//29210#<HPabsorp2 3>#
+//29211#<HPabsorp2 3>#
+//29212#<Hit + 3>#
+//29213#<Hit + 6>#
+//29214#<Burn>#
+//29215#<Gale>#
+//29216#<Flood>#
+//29217#<Argila>#
+//29218#<Grudge>#
+//29219#<Ua>#
+//29220#<Venom>#
+//29221#<Desperia>#
+//29222#<Sagrado>#
+//29223#<Suit>#
+//29224#<Efeito Corpo Branco>#
+//29225#<Efeito do campo de água>#
+//29226#<Efeito Onda Carmesim>#
+//29227#<Cura>#
+//29228#<Roubo>#
+//29229#<Teleport>#
+//29231#<Caça ao Dragão>#
+//29232#<Robust>#
+//29233#<Magic>#
+//29234#<Tiro fatal>#
+//29235#<Esquiva Perfeita + 1>#
+//29236#<Esquiva Perfeita + 2>#
+//29237#<Fuja + 5>#
+//29238#<Fuja + 10>#
+//29239#<Hit + 5>#
+//29240#<Hit + 10>#
+//29241#<Cri + 10>#
+//29242#<Armadura Indestrutível>#
+//29243#<Elenco ininterrupto>#
+//29244#<PlayerResistance1>#
+//29245#<PlayerResistance2>#
+//29246#<PlayerResistance3>#
+//29247#<PlayerResistance4>#
+//29248#<PlayerResistance5>#
+//29249#<Neev of Comfort Vitality>#
+//29250#<Neev of Comfort Spirit>#
+//29251#<Neev of Comfort Life>#
+//29252#<Neev of Comfort Intelligence>#
+//29253#<Neev of Eternal Fire>#
+//29254#<Neev of Eternal Water>#
+//29255#<Neev of Eternal Wind>#
+//29256#<Neev da Terra Eterna>#
+//29257#<Neev of Eternal Shadow>#
+//29258#<Neev of Eternal Ghost>#
+//29259#<Neev of Eternal Poison>#
+//29260#<Neev of Wound Ghost Form>#
+//29261#<Neev of Wound Undead Form>#
+//29262#<Neev da Forma Animal Ferida>#
+//29263#<Neev of Wound Plant Form>#
+//29264#<Neev of Wound Insect Form>#
+//29265#<Neev of Wound Fish Form>#
+//29266#<Neev of Wound Demon Form>#
+//29267#<Neev da Forma Humana Ferida>#
+//29268#<Neev da Forma de Anjo Ferido>#
+//29269#<Neev da Forma do Dragão Ferido>#
+//29270#<Neev of Blood Strength>#
+//29271#<Neev of Blood Speed>#
+//29272#<Neev da vitalidade do sangue>#
+//29273#<Neev of Blood Intelligence>#
+//29274#<Neev of Concentração de Sangue>#
+//29275#<Neev of Blood Fortune>#
+//29276#<Neev of Honor Speed>#
+//29277#<Neev of Honor Concentration>#
+//29278#<Habilidade Neev of Honor>#
+//29279#<Neev of Death Strength>#
+//29280#<Neev of Death Intelligence>#
+//29281#<Neev of Death Physical>#
+//29282#<Neev of Death Magic>#
+//29300#<Prisão>#
+//29302#<Armadura do Elemento Água>#
+//29303#<Armadura do Elemento Vento>#
+//29304#<Armadura do Elemento Terra>#
+//29305#<Armadura do Elemento Fogo>#
+//29306#<Armadura do Elemento Sombrio>#
+//29307#<Armadura do Elemento Sagrado>#
+//29308#<Armadura de elemento morto-vivo>#
+//29309#<Armadura de Elemento Venenoso>#
+//29310#<Cavaleiro Rúnico de Corrida Nv1>#
+//29311#<Cavaleiro Rúnico de Corrida Lv2>#
+//29312#<Cavaleiro Rúnico de Corrida Lv3>#
+//29313#<Corrida da Guarda Real Nv1>#
+//29314#<Corrida da Guarda Real Nv2>#
+//29315#<Corrida da Guarda Real Nv3>#
+//29316#<Mecânico de Corrida Nv1>#
+//29317#<Mecânico de Corrida Lv2>#
+//29318#<Mecânico de Corrida Lv3>#
+//29319#<Geneticista de Corrida Nv1>#
+//29320#<Geneticista de Corrida Lv2>#
+//29321#<Geneticista de Corrida Lv3>#
+//29322#<Cruz Guilhotina de Corrida Lv1>#
+//29323#<Cruz Guilhotina de Corrida Lv2>#
+//29324#<Corrida de Guilhotina Lv3>#
+//29325#<Caçador Sombrio de Corrida Lv1>#
+//29326#<Corrida Caçador das Sombras Lv2>#
+//29327#<Caçador Sombrio de Corrida Lv3>#
+//29328#<Bruxo de Corrida Nv1>#
+//29329#<Bruxo de Corrida Nv2>#
+//29330#<Bruxo de Corrida Nv3>#
+//29331#<Feiticeiro de Corrida Lv1>#
+//29332#<Feiticeiro de Corrida Lv2>#
+//29333#<Feiticeiro de Corrida Lv3>#
+//29334#<Arcebispo de Corrida Lv1>#
+//29335#<Arcebispo de Corrida Lv2>#
+//29336#<Arcebispo de Corrida Lv3>#
+//29337#<Corrida Sura Lv1>#
+//29338#<Corrida Sura Lv2>#
+//29339#<Corrida Sura Lv3>#
+//29340#<Ranger de Corrida Lv1>#
+//29341#<Corrida Ranger Lv2>#
+//29342#<Ranger de Corrida Lv3>#
+//29343#<Wanderers de Corrida e Menestrel Nv1>#
+//29344#<Wanderers de Corrida e Menestrel Nv2>#
+//29345#<Wanderers de Corrida e Menestrel Nv3>#
+//29346#<Pistoleiro de Corrida Lv1>#
+//29347#<Pistoleiro de Corrida Lv2>#
+//29348#<Pistoleiro de Corrida Lv3>#
+//29349#<Corrida Ninja Nv1>#
+//29350#<Corrida Ninja Lv2>#
+//29351#<Corrida Ninja Lv3>#
+//29352#<Super Novato de Corrida Lv1>#
+//29353#<Super Novato de Corrida Lv2>#
+//29354#<Corrida Super Novato Lv3>#
+//29355#<Invocador de Corrida Nv1>#
+//29356#<Invocador de Corrida Lv2>#
+//29357#<Invocador de Corrida Lv3>#
+//29358#<Redução variável de conversão>#
+//29359#<Superior Fatal>#
+//29360#<Fatal Inferior>#
+//29361#<Vestuário Fatal>#
+//29362#<Ataque Duplo>#
+//29363#<Fogo Ardente>#
+//29366#<Golpe forte1>#
+//29367#<Golpe forte2>#
+//29368#<Golpe forte3>#
+//29369#<Forte golpe4>#
+//29370#<Golpe forte5>#
+//29371#<Liberação da verdade>#
+//29372#<Tempo fixo de fundição-50%>#
+//29373#<Atraso na habilidade-15%>#
+//29374#<Custo de SP-15%>#
+//29375#<PlayerResistance6>#
+//29376#<PlayerResistance7>#
+//29377#<PlayerResistance8>#
+//29378#<PlayerResistance9>#
+//29379#<PlayerResistance10>#
+//29382#<Neev of Honor Hit>#
+//29383#<Neev of Honor Flee>#
+//29384#<Neev of Honor LUK>#
+//29385#<Neev of Death DEX>#
+//29386#<Neev of Death LUK>#
+//29423#<Campeão da Pedra Superior>#
+//29424#<Campeão da Pedra Média>#
+//29425#<Pedra do Campeão Inferior>#
+//29426#<Vestuário em Pedra Sura>#
+//29428#<Sniper Stone Upper>#
+//29429#<Sniper Stone Mid>#
+//29430#<Atirador de pedras inferior>#
+//29431#<Vestuário em Pedra do Arqueiro>#
+//29432#<Professor Stone Superior>#
+//29433#<Professor Stone Mid>#
+//29434#<Professor Pedra Inferior>#
+//29435#<Vestuário de Pedra Feiticeira>#
+//29436#<Liberação de Magia>#
+//29437#<SkillDelay-8%>#
+//29438#<Z-Knockback>#
+//29439#<Z-Immortal>#
+//29440#<Z-Killgain>#
+//29441#<Z-Reincarnation>#
+//29442#<Z-NoDispell>#
+//29443#<Z-Clairvoyance>#
+//29444#<Z-CastFixed>#
+//29445#<Amplification1>#
+//29446#<Amplification2>#
+//29447#<Amplification3>#
+//29450#<Lv1>#
+//29451#<Lv2>#
+//29452#<Lv3>#
+//29453#<Lv4>#
+//29454#<Lv5>#
+//29455#<Lv6>#
+//29456#<Lv7>#
+//29457#<Lv8>#
+//29458#<Lv9>#
+//29459#<Lv10>#
+//29460#<Senhor Cavaleiro Pedra Superior>#
+//29461#<Lorde Cavaleiro de Pedra Meados>#
+//29462#<Senhor Cavaleiro Pedra Inferior>#
+//29463#<Vestuário de Pedra do Cavaleiro Rúnico>#
+//29464#<Parte superior da pedra do criador>#
+//29465#<Pedra do criador central>#
+//29466#<Pedra do Criador Inferior>#
+//29467#<Vestuário de Pedra Geneticista>#
+//29468#<Pedra Mágica Alta Superior>#
+//29469#<Pedra Mágica Alta Mágica>#
+//29470#<Pedra Mágica Alta Inferior>#
+//29471#<Vestuário de Pedra Bruxa>#
+//29472#<Overclock>#
+//29473#<Braço Transcendente Rígido>#
+//29474#<Braço rígido>#
+//29475#<Força Amaldiçoada>#
+//29476#<Escama de Dragão>#
+//29477#<Parte Superior da Pedra do Espreitador>#
+//29478#<Pedra do Espreitador Médio>#
+//29479#<Pedra do Espreitador Inferior>#
+//29480#<Vestuário de Pedra do Caçador Sombrio>#
+//29481#<Parte superior da pedra Whitesmith>#
+//29482#<Pedra Whitesmith Mid>#
+//29483#<Pedra da Pedra Branca de Whitesmith>#
+//29484#<Vestuário em Pedra Mecânica>#
+//29485#<Palhaço de Pedra Cigana>#
+//29486#<Palhaço Cigano Meados de>>
+//29487#<Pedra Cigana do Palhaço Inferior>#
+//29488#<Vestuário de Pedra Wandermins>#
+//29509#<Hero>#
+//29510#<Neev of Wound Player>#
+//29512#<Tough>#
+//29513#<Sumo Sacerdote Pedra Superior>#
+//29514#<Sumo Sacerdote Pedra Média>#
+//29515#<Sumo Sacerdote Pedra Inferior>#
+//29516#<Vestuário do Arcebispo de Pedra>#
+//29517#<Paladino em Pedra Superior>#
+//29518#<Paladin Stone Mid>#
+//29519#<Pedra do Paladino Inferior>#
+//29520#<Vestuário de Pedra da Guarda Real>#
+//29521#<Assassino Cruz Pedra Superior>#
+//29522#<Assassin Cross Stone Mid>#
+//29523#<Pedra da Cruz dos Assassinos Inferior>#
+//29524#<Vestuário em Pedra da Guilhotina>#
+//29527#<Defesa Orb Mod>#
+//29528#<Mod Orb MagicDefense>#
+//29529#<Mod Orb HPRecovery>#
+//29530#<Espírito Orb Mod>#
+//29531#<Resistência à Orbe Mod>#
+//29532#<Mod Orb SPRecovery>#
+//29533#<Mod Orb Heal>#
+//29534#<Mod Orb AttackPower>#
+//29535#<Mod Orb MagicPower>#
+//29536#<Mod Orb Sharpshooter>#
+//29537#<Mod Orb Swift>#
+//29538#<Mod Orb Caster>#
+//29539#<Mod Orb Crítico>#
+//29540#<Mod Orb AfterSkillDelay>#
+//29541#<Mod Orb FixedCastTime>#
+//29542#<Mod Orb Acima de Tudo>#
+//29543#<Mod Orb LifeDrain>#
+//29544#<Mod Orb SoulDrain>#
+//29545#<Mod Orb MagicHealing>#
+//29546#<Mod Orb MagicSoul>#
+//29547#<Mod Orb UnlimitedVital>#
+//29548#<Mod Orb SpellBuster>#
+//29549#<Tiro de Orbe Mod>#
+//29550#<Mod Orb Over Power>#
+//29551#<Flash Fatal de Orbe Mod>#
+//29552#<Mod Orb Lucky Strike>#
+//29579#<Gladiador Estrela de Corrida Lv1>#
+//29580#<Gladiador Estrela de Corrida Lv2>#
+//29581#<Gladiador Estrela de Corrida Lv3>#
+//29582#<Corredor da Alma de Corrida Nv1>#
+//29583#<Corredor da Alma de Corrida Lv2>#
+//29584#<Corredor da Alma de Corrida Lv3>#
+//29587#<Flash>#
+//29588#<Power>#
+//29589#<Celestial>#
+//29590#<Poder Divino>#
+//29591#<Corpo rígido>#
+//29592#<Cem Milhas>#
+//29593#<Tolerância ao congelamento>#
+//29608#<Áries>#
+//29609#<Capricórnio>#
+//29610#<Peças>#

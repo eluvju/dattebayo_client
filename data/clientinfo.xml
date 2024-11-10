@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+	<desc>Seu jogo RO</desc>
+	<servicetype>america</servicetype>
+	<servertype>primary</servertype>
+	<connection>
+		<display>SeuRO</display>
+		<desc>descricao</desc>
+		<balloon>1X/1X/1X</balloon>
+		<langtype>12</langtype>
+		<version>55</version>
+		<address>149.56.87.57</address>
+		<port>6900</port>
+		<aid>
+			<admin>2</admin>						
+			<admin>3</admin>
+			<admin>4</admin>
+		</aid>
+		<loading>
+			<image>loading00.jpg</image>
+			<image>loading01.jpg</image>
+			<image>loading02.jpg</image>
+			<image>loading03.jpg</image>
+			<image>loading04.jpg</image>
+			<image>loading05.jpg</image>
+			<image>loading06.jpg</image>
+			<image>loading07.jpg</image>
+			<image>loading08.jpg</image>
+			<image>loading09.jpg</image>
+		</loading>
+	</connection>
+	<registrationweb>http://google.com.br</registrationweb>
+</clientinfo>
+

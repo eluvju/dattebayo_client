@@ -1,0 +1,261 @@
+--    ________________________________________________________ 
+--   /                                                        \
+--   |           ___                          _               |
+--   |          / _ \                        | |              |
+--   |         / /_\ \___  __ _  __ _ _ __ __| |              |
+--   |         |  _  / __|/ _` |/ _` | '__/ _` |              |
+--   |         | | | \__ \ (_| | (_| | | | (_| |              |
+--   |         \_| |_/___/\__, |\__,_|_|  \__,_|              |
+--   |                     __/ |                              |
+--   |                    |___/                               |
+--   |                                                        |
+--   |                                                        |
+--   |                    Asgard Lua                          |
+--   |--------------------------------------------------------|
+--   | Nome do Arquivo: jobDressList.lub                      |
+--   |--------------------------------------------------------|
+--   | Changelog:                                             |
+--   | 1.0 Traduzido e Organizado [JohnnyPlayy]               |
+--   |--------------------------------------------------------|
+--   | Contato do Discord: JohnnyPlayy#2647                   |
+--   | Grupo do Discord: https://discord.gg/xjcn5QU           |
+--   |--------------------------------------------------------|
+--   | - Anotações                                            |
+--   \________________________________________________________/
+--                                                             
+_DressHeadPaletteList = { {
+		"Básica 0",
+		0
+	}, {
+		"Amarelo 1",
+		1
+	}, {
+		"Roxo 2",
+		2
+	}, {
+		"Laranja 3",
+		3
+	}, {
+		"Verde 4",
+		4
+	}, {
+		"Azul 5",
+		5
+	}, {
+		"Branco 6",
+		6
+	}, {
+		"Preto 7",
+		7
+	}, {
+		"Vermelho 8",
+		8
+	}
+}
+_DressBodyPaletteList = { {
+		"Cor Padrão",
+		0
+	}, {
+		"Cor Extra 1",
+		1
+	}, {
+		"Cor Extra 2",
+		2
+	}, {
+		"Cor Extra 3",
+		3
+	}
+}
+_DressHeadstyleList = { {
+		"Estilo 1",
+		1
+	}, {
+		"Estilo 2",
+		2
+	}, {
+		"Estilo 3",
+		3
+	}, {
+		"Estilo 4",
+		4
+	}, {
+		"Estilo 5",
+		5
+	}, {
+		"Estilo 6",
+		6
+	}, {
+		"Estilo 7",
+		7
+	}, {
+		"Estilo 8",
+		8
+	}, {
+		"Estilo 9",
+		9
+	}, {
+		"Estilo 10",
+		10
+	}, {
+		"Estilo 11",
+		11
+	}, {
+		"Estilo 12",
+		12
+	}, {
+		"Estilo 13",
+		13
+	}, {
+		"Estilo 14",
+		14
+	}, {
+		"Estilo 15",
+		15
+	}, {
+		"Estilo 16",
+		16
+	}, {
+		"Estilo 17",
+		17
+	}, {
+		"Estilo 18",
+		18
+	}, {
+		"Estilo 19",
+		19
+	}, {
+		"Estilo 20",
+		20
+	}, {
+		"Estilo 21",
+		21
+	}, {
+		"Estilo 22",
+		22
+	}, {
+		"Estilo 23",
+		23
+	}, {
+		"Estilo 24",
+		24
+	}, {
+		"Estilo 25",
+		25
+	}, {
+		"Estilo 26",
+		26
+	}, {
+		"Estilo 27",
+		27
+	}, {
+		"Estilo 28",
+		28
+	}, {
+		"Estilo 29",
+		29
+	}
+}
+_DressList = {
+	[4054] = { {
+			"Roupa Primária",
+			0
+		}, {
+			"Roupa Secundária",
+			1
+		}, {
+			"Lorde",
+			2
+		}, {
+			"Cavaleiro",
+			3
+		}, {
+			"Espadachim",
+			4
+		}
+	},
+	[4059] = { {
+			"Roupa Primária",
+			0
+		}, {
+			"Roupa Secundária",
+			1
+		}, {
+			"Algoz",
+			2
+		}, {
+			"Mercenário",
+			3
+		}, {
+			"Gatuno",
+			4
+		}
+	},
+	[4058] = { {
+			"Roupa Primária",
+			0
+		}, {
+			"Roupa Secundária",
+			1
+		}, {
+			"Mestre-Ferreiro",
+			2
+		}, {
+			"Ferreiro",
+			3
+		}, {
+			"Mercador",
+			4
+		}
+	},
+	[4057] = { {
+			"Roupa Primária",
+			0
+		}, {
+			"Roupa Secundária",
+			1
+		}, {
+			"Sumo Sacerdote",
+			2
+		}, {
+			"Sacerdote",
+			3
+		}, {
+			"Noviço",
+			4
+		}
+	},
+	[4055] = { {
+			"Roupa Primária",
+			0
+		}, {
+			"Roupa Secundária",
+			1
+		}, {
+			"Arquimago",
+			2
+		}, {
+			"Bruxo",
+			3
+		}, {
+			"Mago",
+			4
+		}
+	},
+	[4056] = { {
+			"Roupa Primária",
+			0
+		}, {
+			"Roupa Secundária",
+			1
+		}, {
+			"Atirador de Elite",
+			2
+		}, {
+			"Caçador",
+			3
+		}, {
+			"Arqueiro",
+			4
+		}
+	}
+}

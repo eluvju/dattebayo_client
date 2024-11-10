@@ -1,0 +1,59 @@
+#
+[Criar Clã]
+  1. O Clã deve ter na sua posse um item chamado Emperium.
+  (É possível obter o Emperium através de Quests/Monstros).
+ 
+  2. Maneiras de criar um Clã:
+  /guild (nome)
+  Botão de 'Criar Guild' [Alt + G].
+ 
+  3. ALT + G: Abre as informações do Clã.
+#
+ 
+[Janela de Informações do Clã]
+#
+  1. Clã, Experiência, Nível, Emblema,
+   Nome do Mestre, Inimigos, Pontos, Média de Nível dos Membros
+   Alianças, Clãs inimigos podem ser encontrados.
+#
+ 
+  2. Informações dos Membros:
+   Use a opção membros do Clã para procurar informações individuais ou
+   para sair de um Clã. Se o mestre quiser dissolver o Clã,
+   ele deve remover todos os membros antes.
+#
+ 
+  3. Definir Posição:
+  Tributar a contribuição de experiência dos membros em até 50%
+#
+ 
+  4. Habilidades do Clã:
+  Ao aumentar o nível do Clã, o mestre
+  pode usar pontos para abrir habilidades.
+#
+ 
+  5. Expulsão:
+  Lista de usuários expulsos do Clã
+  Também inclui motivo da exclusão ...
+#
+ 
+  6. Anúncios do Clã
+  Os membros receberão os anúncios cadastrados.
+#
+ 
+[Emblemas]
+#
+  1) A imagem para emblema deve ser de 24x24 pixels bitmap de 256 cores (BMP)
+#
+ 
+  2) Adicione os emblemas na pasta "Emblem"
+  Onde o Ragnarok Online está instalado.
+#
+ 
+  3) Alterar Emblema
+  Clique em "Editar" para alterar o emblema do Clã.
+#
+ 
+  4) O emblema só pode ser alterado pelo
+  Mestre do Clã, quando quiser.
+#

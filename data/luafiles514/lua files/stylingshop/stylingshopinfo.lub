@@ -1,0 +1,958 @@
+StylingShop.AddHeadPalette(1, {
+	zeny = 500000
+}, true)
+StylingShop.AddHeadPalette(2, {
+	zeny = 500000
+}, true)
+StylingShop.AddHeadPalette(3, {
+	zeny = 500000
+}, true)
+StylingShop.AddHeadPalette(4, {
+	zeny = 500000
+}, true)
+StylingShop.AddHeadPalette(5, {
+	zeny = 500000
+}, true)
+StylingShop.AddHeadPalette(6, {
+	zeny = 500000
+}, true)
+StylingShop.AddHeadPalette(7, {
+	zeny = 500000
+}, true)
+StylingShop.AddHeadPalette(8, {
+	zeny = 500000
+}, true)
+StylingShop.AddHeadPalette(9, {
+	zeny = 500000
+},true)
+StylingShop.AddHeadPalette(10, {
+	zeny = 500000
+},true)
+StylingShop.AddHeadPalette(11, {
+	zeny = 500000
+},true)
+StylingShop.AddHeadPalette(12, {
+	zeny = 500000
+},true)
+StylingShop.AddHeadPalette(13, {
+	zeny = 500000
+},true)
+StylingShop.AddHeadPalette(14, {
+	zeny = 500000
+},true)
+StylingShop.AddHeadPalette(15, {
+	zeny = 500000
+},true)
+StylingShop.AddHeadPalette(16, {
+	zeny = 500000
+},true)
+StylingShop.AddHeadStyle(0, {
+})
+StylingShop.AddHeadStyle(1, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(2, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(3, {
+	zeny = 500000
+}, true, true)
+StylingShop.AddHeadStyle(4, {
+	zeny = 500000
+}, true, true)
+StylingShop.AddHeadStyle(5, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(6, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(7, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(8, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(9, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(10, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(11, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(12, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(13, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(14, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(15, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(16, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(17, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(18, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(19, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(20, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(21, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(22, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(23, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(24, {
+zeny = 500000
+})
+StylingShop.AddHeadStyle(25, {
+zeny = 500000
+})
+StylingShop.AddHeadStyle(26, {
+zeny = 500000
+})
+StylingShop.AddHeadStyle(27, {
+zeny = 500000
+})
+StylingShop.AddHeadStyle(28, {
+zeny = 500000
+})
+StylingShop.AddHeadStyle(29, {
+zeny = 500000
+})
+StylingShop.AddHeadStyle(30, {
+zeny = 500000
+})
+StylingShop.AddHeadStyle(31, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(32, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(33, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(34, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(35, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(36, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(37, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(38, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(39, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(40, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(41, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(42, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(43, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(44, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(45, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(46, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(47, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(48, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(49, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(50, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(51, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(52, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(53, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(54, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(55, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(56, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(57, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(58, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(59, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(60, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(61, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(62, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(63, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(64, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(65, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(66, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(67, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(68, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(69, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(70, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(71, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(72, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(73, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(74, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(75, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(76, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(77, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(78, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(79, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(80, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(81, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(82, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(83, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(84, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(85, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(86, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(87, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(88, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(89, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(90, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(91, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(92, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(93, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(94, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(95, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(96, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(97, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(98, {
+	zeny = 500000
+})
+StylingShop.AddHeadStyle(99, {
+	zeny = 500000
+})
+StylingShop.AddBodyPalette(0, {
+zeny = 500000
+})
+StylingShop.AddBodyPalette(2, {
+zeny = 500000
+})
+StylingShop.AddBodyPalette(3, {
+zeny = 500000
+})
+StylingShop.AddBodyPalette(4, {
+zeny = 500000
+})
+StylingShop.AddBodyPalette(5, {
+zeny = 500000
+})
+StylingShop.AddBodyPalette(6, {
+zeny = 500000
+})
+StylingShop.AddBodyPalette(7, {
+zeny = 500000
+})
+StylingShop.AddBodyPalette(8, {zeny = 500000})
+StylingShop.AddBodyPalette(9, {zeny = 500000})
+StylingShop.AddBodyPalette(10, {zeny = 500000}) 
+StylingShop.AddBodyPalette(11, {zeny = 500000}) 
+StylingShop.AddBodyPalette(12, {zeny = 500000}) 
+StylingShop.AddBodyPalette(13, {zeny = 500000}) 
+StylingShop.AddBodyPalette(14, {zeny = 500000}) 
+StylingShop.AddBodyPalette(15, {zeny = 500000}) 
+StylingShop.AddBodyPalette(16, {zeny = 500000}) 
+StylingShop.AddBodyPalette(17, {zeny = 500000}) 
+StylingShop.AddBodyPalette(18, {zeny = 500000}) 
+StylingShop.AddBodyPalette(19, {zeny = 500000}) 
+StylingShop.AddBodyPalette(20, {zeny = 500000}) 
+StylingShop.AddBodyPalette(21, {zeny = 500000}) 
+StylingShop.AddBodyPalette(22, {zeny = 500000}) 
+StylingShop.AddBodyPalette(23, {zeny = 500000}) 
+StylingShop.AddBodyPalette(24, {zeny = 500000}) 
+StylingShop.AddBodyPalette(25, {zeny = 500000}) 
+StylingShop.AddBodyPalette(26, {zeny = 500000}) 
+StylingShop.AddBodyPalette(27, {zeny = 500000}) 
+StylingShop.AddBodyPalette(28, {zeny = 500000}) 
+StylingShop.AddBodyPalette(29, {zeny = 500000}) 
+StylingShop.AddBodyPalette(30, {zeny = 500000}) 
+StylingShop.AddBodyPalette(31, {zeny = 500000}) 
+StylingShop.AddBodyPalette(32, {zeny = 500000}) 
+StylingShop.AddBodyPalette(33, {zeny = 500000}) 
+StylingShop.AddBodyPalette(34, {zeny = 500000}) 
+StylingShop.AddBodyPalette(35, {zeny = 500000}) 
+StylingShop.AddBodyPalette(36, {zeny = 500000}) 
+StylingShop.AddBodyPalette(37, {zeny = 500000}) 
+StylingShop.AddBodyPalette(38, {zeny = 500000}) 
+StylingShop.AddBodyPalette(39, {zeny = 500000}) 
+StylingShop.AddBodyPalette(40, {zeny = 500000}) 
+StylingShop.AddBodyPalette(41, {zeny = 500000}) 
+StylingShop.AddBodyPalette(42, {zeny = 500000}) 
+StylingShop.AddBodyPalette(43, {zeny = 500000}) 
+StylingShop.AddBodyPalette(44, {zeny = 500000}) 
+StylingShop.AddBodyPalette(45, {zeny = 500000}) 
+StylingShop.AddBodyPalette(46, {zeny = 500000}) 
+StylingShop.AddBodyPalette(47, {zeny = 500000}) 
+StylingShop.AddBodyPalette(48, {zeny = 500000}) 
+StylingShop.AddBodyPalette(49, {zeny = 500000}) 
+StylingShop.AddBodyPalette(50, {zeny = 500000}) 
+StylingShop.AddBodyPalette(51, {zeny = 500000}) 
+StylingShop.AddBodyPalette(52, {zeny = 500000}) 
+StylingShop.AddBodyPalette(53, {zeny = 500000}) 
+StylingShop.AddBodyPalette(54, {zeny = 500000}) 
+StylingShop.AddBodyPalette(55, {zeny = 500000}) 
+StylingShop.AddBodyPalette(56, {zeny = 500000}) 
+StylingShop.AddBodyPalette(57, {zeny = 500000}) 
+StylingShop.AddBodyPalette(58, {zeny = 500000}) 
+StylingShop.AddBodyPalette(59, {zeny = 500000}) 
+StylingShop.AddBodyPalette(60, {zeny = 500000}) 
+StylingShop.AddBodyPalette(61, {zeny = 500000}) 
+StylingShop.AddBodyPalette(62, {zeny = 500000}) 
+StylingShop.AddBodyPalette(63, {zeny = 500000}) 
+StylingShop.AddBodyPalette(64, {zeny = 500000}) 
+StylingShop.AddBodyPalette(65, {zeny = 500000}) 
+StylingShop.AddBodyPalette(66, {zeny = 500000}) 
+StylingShop.AddBodyPalette(67, {zeny = 500000}) 
+StylingShop.AddBodyPalette(68, {zeny = 500000}) 
+StylingShop.AddBodyPalette(69, {zeny = 500000}) 
+StylingShop.AddBodyPalette(70, {zeny = 500000}) 
+StylingShop.AddBodyPalette(71, {zeny = 500000}) 
+StylingShop.AddBodyPalette(72, {zeny = 500000}) 
+StylingShop.AddBodyPalette(73, {zeny = 500000}) 
+StylingShop.AddBodyPalette(74, {zeny = 500000}) 
+StylingShop.AddBodyPalette(75, {zeny = 500000}) 
+StylingShop.AddBodyPalette(76, {zeny = 500000}) 
+StylingShop.AddBodyPalette(77, {zeny = 500000}) 
+StylingShop.AddBodyPalette(78, {zeny = 500000}) 
+StylingShop.AddBodyPalette(79, {zeny = 500000}) 
+StylingShop.AddBodyPalette(80, {zeny = 500000}) 
+StylingShop.AddBodyPalette(81, {zeny = 500000}) 
+StylingShop.AddBodyPalette(82, {zeny = 500000}) 
+StylingShop.AddBodyPalette(83, {zeny = 500000}) 
+StylingShop.AddBodyPalette(84, {zeny = 500000}) 
+StylingShop.AddBodyPalette(85, {zeny = 500000}) 
+StylingShop.AddBodyPalette(86, {zeny = 500000}) 
+StylingShop.AddBodyPalette(87, {zeny = 500000}) 
+StylingShop.AddBodyPalette(88, {zeny = 500000}) 
+StylingShop.AddBodyPalette(89, {zeny = 500000}) 
+StylingShop.AddBodyPalette(90, {zeny = 500000}) 
+StylingShop.AddBodyPalette(91, {zeny = 500000}) 
+StylingShop.AddBodyPalette(92, {zeny = 500000}) 
+StylingShop.AddBodyPalette(93, {zeny = 500000}) 
+StylingShop.AddBodyPalette(94, {zeny = 500000}) 
+StylingShop.AddBodyPalette(95, {zeny = 500000}) 
+StylingShop.AddBodyPalette(96, {zeny = 500000}) 
+StylingShop.AddBodyPalette(97, {zeny = 500000}) 
+StylingShop.AddBodyPalette(98, {zeny = 500000}) 
+StylingShop.AddBodyPalette(99, {zeny = 500000}) 
+StylingShop.AddBodyPalette(100, {zeny = 500000})
+StylingShop.AddBodyPalette(101, {zeny = 500000})
+StylingShop.AddBodyPalette(102, {zeny = 500000})
+StylingShop.AddBodyPalette(103, {zeny = 500000})
+StylingShop.AddBodyPalette(104, {zeny = 500000})
+StylingShop.AddBodyPalette(105, {zeny = 500000})
+StylingShop.AddBodyPalette(106, {zeny = 500000})
+StylingShop.AddBodyPalette(107, {zeny = 500000})
+StylingShop.AddBodyPalette(108, {zeny = 500000})
+StylingShop.AddBodyPalette(109, {zeny = 500000})
+StylingShop.AddBodyPalette(110, {zeny = 500000})
+StylingShop.AddBodyPalette(111, {zeny = 500000})
+StylingShop.AddBodyPalette(112, {zeny = 500000})
+StylingShop.AddBodyPalette(113, {zeny = 500000})
+StylingShop.AddBodyPalette(114, {zeny = 500000})
+StylingShop.AddBodyPalette(115, {zeny = 500000})
+StylingShop.AddBodyPalette(116, {zeny = 500000})
+StylingShop.AddBodyPalette(117, {zeny = 500000})
+StylingShop.AddBodyPalette(118, {zeny = 500000})
+StylingShop.AddBodyPalette(119, {zeny = 500000})
+StylingShop.AddBodyPalette(120, {zeny = 500000})
+StylingShop.AddBodyPalette(121, {zeny = 500000})
+StylingShop.AddBodyPalette(122, {zeny = 500000})
+StylingShop.AddBodyPalette(123, {zeny = 500000})
+StylingShop.AddBodyPalette(124, {zeny = 500000})
+StylingShop.AddBodyPalette(125, {zeny = 500000})
+StylingShop.AddBodyPalette(126, {zeny = 500000})
+StylingShop.AddBodyPalette(127, {zeny = 500000})
+StylingShop.AddBodyPalette(128, {zeny = 500000})
+StylingShop.AddBodyPalette(129, {zeny = 500000})
+StylingShop.AddBodyPalette(130, {zeny = 500000})
+StylingShop.AddBodyPalette(131, {zeny = 500000})
+StylingShop.AddBodyPalette(132, {zeny = 500000})
+StylingShop.AddBodyPalette(133, {zeny = 500000})
+StylingShop.AddBodyPalette(134, {zeny = 500000})
+StylingShop.AddBodyPalette(135, {zeny = 500000})
+StylingShop.AddBodyPalette(136, {zeny = 500000})
+StylingShop.AddBodyPalette(137, {zeny = 500000})
+StylingShop.AddBodyPalette(138, {zeny = 500000})
+StylingShop.AddBodyPalette(139, {zeny = 500000})
+StylingShop.AddBodyPalette(140, {zeny = 500000})
+StylingShop.AddBodyPalette(141, {zeny = 500000})
+StylingShop.AddBodyPalette(142, {zeny = 500000})
+StylingShop.AddBodyPalette(143, {zeny = 500000})
+StylingShop.AddBodyPalette(144, {zeny = 500000})
+StylingShop.AddBodyPalette(145, {zeny = 500000})
+StylingShop.AddBodyPalette(146, {zeny = 500000})
+StylingShop.AddBodyPalette(147, {zeny = 500000})
+StylingShop.AddBodyPalette(148, {zeny = 500000})
+StylingShop.AddBodyPalette(149, {zeny = 500000})
+StylingShop.AddBodyPalette(150, {zeny = 500000})
+StylingShop.AddBodyPalette(151, {zeny = 500000})
+StylingShop.AddBodyPalette(152, {zeny = 500000})
+StylingShop.AddBodyPalette(153, {zeny = 500000})
+StylingShop.AddBodyPalette(154, {zeny = 500000})
+StylingShop.AddBodyPalette(155, {zeny = 500000})
+StylingShop.AddBodyPalette(156, {zeny = 500000})
+StylingShop.AddBodyPalette(157, {zeny = 500000})
+StylingShop.AddBodyPalette(158, {zeny = 500000})
+StylingShop.AddBodyPalette(159, {zeny = 500000})
+StylingShop.AddBodyPalette(160, {zeny = 500000})
+StylingShop.AddBodyPalette(161, {zeny = 500000})
+StylingShop.AddBodyPalette(162, {zeny = 500000})
+StylingShop.AddBodyPalette(163, {zeny = 500000})
+StylingShop.AddBodyPalette(164, {zeny = 500000})
+StylingShop.AddBodyPalette(165, {zeny = 500000})
+StylingShop.AddBodyPalette(166, {zeny = 500000})
+StylingShop.AddBodyPalette(167, {zeny = 500000})
+StylingShop.AddBodyPalette(168, {zeny = 500000})
+StylingShop.AddBodyPalette(169, {zeny = 500000})
+StylingShop.AddBodyPalette(170, {zeny = 500000})
+StylingShop.AddBodyPalette(171, {zeny = 500000})
+StylingShop.AddBodyPalette(172, {zeny = 500000})
+StylingShop.AddBodyPalette(173, {zeny = 500000})
+StylingShop.AddBodyPalette(174, {zeny = 500000})
+StylingShop.AddBodyPalette(175, {zeny = 500000})
+StylingShop.AddBodyPalette(176, {zeny = 500000})
+StylingShop.AddBodyPalette(177, {zeny = 500000})
+StylingShop.AddBodyPalette(178, {zeny = 500000})
+StylingShop.AddBodyPalette(179, {zeny = 500000})
+StylingShop.AddBodyPalette(180, {zeny = 500000})
+StylingShop.AddBodyPalette(181, {zeny = 500000})
+StylingShop.AddBodyPalette(182, {zeny = 500000})
+StylingShop.AddBodyPalette(183, {zeny = 500000})
+StylingShop.AddBodyPalette(184, {zeny = 500000})
+StylingShop.AddBodyPalette(185, {zeny = 500000})
+StylingShop.AddBodyPalette(186, {zeny = 500000})
+StylingShop.AddBodyPalette(187, {zeny = 500000})
+StylingShop.AddBodyPalette(188, {zeny = 500000})
+StylingShop.AddBodyPalette(189, {zeny = 500000})
+StylingShop.AddBodyPalette(190, {zeny = 500000})
+StylingShop.AddBodyPalette(191, {zeny = 500000})
+StylingShop.AddBodyPalette(192, {zeny = 500000})
+StylingShop.AddBodyPalette(193, {zeny = 500000})
+StylingShop.AddBodyPalette(194, {zeny = 500000})
+StylingShop.AddBodyPalette(195, {zeny = 500000})
+StylingShop.AddBodyPalette(196, {zeny = 500000})
+StylingShop.AddBodyPalette(197, {zeny = 500000})
+StylingShop.AddBodyPalette(198, {zeny = 500000})
+StylingShop.AddBodyPalette(199, {zeny = 500000})
+StylingShop.AddBodyPalette(200, {zeny = 500000})
+StylingShop.AddBodyPalette(201, {zeny = 500000})
+StylingShop.AddBodyPalette(202, {zeny = 500000})
+StylingShop.AddBodyPalette(203, {zeny = 500000})
+StylingShop.AddBodyPalette(204, {zeny = 500000})
+StylingShop.AddBodyPalette(205, {zeny = 500000})
+StylingShop.AddBodyPalette(206, {zeny = 500000})
+StylingShop.AddBodyPalette(207, {zeny = 500000})
+StylingShop.AddBodyPalette(208, {zeny = 500000})
+StylingShop.AddBodyPalette(209, {zeny = 500000})
+StylingShop.AddBodyPalette(210, {zeny = 500000})
+StylingShop.AddBodyPalette(211, {zeny = 500000})
+StylingShop.AddBodyPalette(212, {zeny = 500000})
+StylingShop.AddBodyPalette(213, {zeny = 500000})
+StylingShop.AddBodyPalette(214, {zeny = 500000})
+StylingShop.AddBodyPalette(215, {zeny = 500000})
+StylingShop.AddBodyPalette(216, {zeny = 500000})
+StylingShop.AddBodyPalette(217, {zeny = 500000})
+StylingShop.AddBodyPalette(218, {zeny = 500000})
+StylingShop.AddBodyPalette(219, {zeny = 500000})
+StylingShop.AddBodyPalette(220, {zeny = 500000})
+StylingShop.AddBodyPalette(221, {zeny = 500000})
+StylingShop.AddBodyPalette(222, {zeny = 500000})
+StylingShop.AddBodyPalette(223, {zeny = 500000})
+StylingShop.AddBodyPalette(224, {zeny = 500000})
+StylingShop.AddBodyPalette(225, {zeny = 500000})
+StylingShop.AddBodyPalette(226, {zeny = 500000})
+StylingShop.AddBodyPalette(227, {zeny = 500000})
+StylingShop.AddBodyPalette(228, {zeny = 500000})
+StylingShop.AddBodyPalette(229, {zeny = 500000})
+StylingShop.AddBodyPalette(230, {zeny = 500000})
+StylingShop.AddBodyPalette(231, {zeny = 500000})
+StylingShop.AddBodyPalette(232, {zeny = 500000})
+StylingShop.AddBodyPalette(233, {zeny = 500000})
+StylingShop.AddBodyPalette(234, {zeny = 500000})
+StylingShop.AddBodyPalette(235, {zeny = 500000})
+StylingShop.AddBodyPalette(236, {zeny = 500000})
+StylingShop.AddBodyPalette(237, {zeny = 500000})
+StylingShop.AddBodyPalette(238, {zeny = 500000})
+StylingShop.AddBodyPalette(239, {zeny = 500000})
+StylingShop.AddBodyPalette(240, {zeny = 500000})
+StylingShop.AddBodyPalette(241, {zeny = 500000})
+StylingShop.AddBodyPalette(242, {zeny = 500000})
+StylingShop.AddBodyPalette(243, {zeny = 500000})
+StylingShop.AddBodyPalette(244, {zeny = 500000})
+StylingShop.AddBodyPalette(245, {zeny = 500000})
+StylingShop.AddBodyPalette(246, {zeny = 500000})
+StylingShop.AddBodyPalette(247, {zeny = 500000})
+StylingShop.AddBodyPalette(248, {zeny = 500000})
+StylingShop.AddBodyPalette(249, {zeny = 500000})
+StylingShop.AddBodyPalette(250, {zeny = 500000})
+StylingShop.AddBodyPalette(251, {zeny = 500000})
+StylingShop.AddBodyPalette(252, {zeny = 500000})
+StylingShop.AddBodyPalette(253, {zeny = 500000})
+StylingShop.AddBodyPalette(254, {zeny = 500000})
+StylingShop.AddBodyPalette(255, {zeny = 500000})
+StylingShop.AddBodyPalette(256, {zeny = 500000})
+StylingShop.AddBodyPalette(257, {zeny = 500000})
+StylingShop.AddBodyPalette(258, {zeny = 500000})
+StylingShop.AddBodyPalette(259, {zeny = 500000})
+StylingShop.AddBodyPalette(260, {zeny = 500000})
+StylingShop.AddBodyPalette(261, {zeny = 500000})
+StylingShop.AddBodyPalette(262, {zeny = 500000})
+StylingShop.AddBodyPalette(263, {zeny = 500000})
+StylingShop.AddBodyPalette(264, {zeny = 500000})
+StylingShop.AddBodyPalette(265, {zeny = 500000})
+StylingShop.AddBodyPalette(266, {zeny = 500000})
+StylingShop.AddBodyPalette(267, {zeny = 500000})
+StylingShop.AddBodyPalette(268, {zeny = 500000})
+StylingShop.AddBodyPalette(269, {zeny = 500000})
+StylingShop.AddBodyPalette(270, {zeny = 500000})
+StylingShop.AddBodyPalette(271, {zeny = 500000})
+StylingShop.AddBodyPalette(272, {zeny = 500000})
+StylingShop.AddBodyPalette(273, {zeny = 500000})
+StylingShop.AddBodyPalette(274, {zeny = 500000})
+StylingShop.AddBodyPalette(275, {zeny = 500000})
+StylingShop.AddBodyPalette(276, {zeny = 500000})
+StylingShop.AddBodyPalette(277, {zeny = 500000})
+StylingShop.AddBodyPalette(278, {zeny = 500000})
+StylingShop.AddBodyPalette(279, {zeny = 500000})
+StylingShop.AddBodyPalette(280, {zeny = 500000})
+StylingShop.AddBodyPalette(281, {zeny = 500000})
+StylingShop.AddBodyPalette(282, {zeny = 500000})
+StylingShop.AddBodyPalette(283, {zeny = 500000})
+StylingShop.AddBodyPalette(284, {zeny = 500000})
+StylingShop.AddBodyPalette(285, {zeny = 500000})
+StylingShop.AddBodyPalette(286, {zeny = 500000})
+StylingShop.AddBodyPalette(287, {zeny = 500000})
+StylingShop.AddBodyPalette(288, {zeny = 500000})
+StylingShop.AddBodyPalette(289, {zeny = 500000})
+StylingShop.AddBodyPalette(290, {zeny = 500000})
+StylingShop.AddBodyPalette(291, {zeny = 500000})
+StylingShop.AddBodyPalette(292, {zeny = 500000})
+StylingShop.AddBodyPalette(293, {zeny = 500000})
+StylingShop.AddBodyPalette(294, {zeny = 500000})
+StylingShop.AddBodyPalette(295, {zeny = 500000})
+StylingShop.AddBodyPalette(296, {zeny = 500000})
+StylingShop.AddBodyPalette(297, {zeny = 500000})
+StylingShop.AddBodyPalette(298, {zeny = 500000})
+StylingShop.AddBodyPalette(299, {zeny = 500000})
+StylingShop.AddBodyPalette(300, {zeny = 500000})
+StylingShop.AddBodyPalette(301, {zeny = 500000})
+StylingShop.AddBodyPalette(302, {zeny = 500000})
+StylingShop.AddBodyPalette(303, {zeny = 500000})
+StylingShop.AddBodyPalette(304, {zeny = 500000})
+StylingShop.AddBodyPalette(305, {zeny = 500000})
+StylingShop.AddBodyPalette(306, {zeny = 500000})
+StylingShop.AddBodyPalette(307, {zeny = 500000})
+StylingShop.AddBodyPalette(308, {zeny = 500000})
+StylingShop.AddBodyPalette(309, {zeny = 500000})
+StylingShop.AddBodyPalette(310, {zeny = 500000})
+StylingShop.AddBodyPalette(311, {zeny = 500000})
+StylingShop.AddBodyPalette(312, {zeny = 500000})
+StylingShop.AddBodyPalette(313, {zeny = 500000})
+StylingShop.AddBodyPalette(314, {zeny = 500000})
+StylingShop.AddBodyPalette(315, {zeny = 500000})
+StylingShop.AddBodyPalette(316, {zeny = 500000})
+StylingShop.AddBodyPalette(317, {zeny = 500000})
+StylingShop.AddBodyPalette(318, {zeny = 500000})
+StylingShop.AddBodyPalette(319, {zeny = 500000})
+StylingShop.AddBodyPalette(320, {zeny = 500000})
+StylingShop.AddBodyPalette(321, {zeny = 500000})
+StylingShop.AddBodyPalette(322, {zeny = 500000})
+StylingShop.AddBodyPalette(323, {zeny = 500000})
+StylingShop.AddBodyPalette(324, {zeny = 500000})
+StylingShop.AddBodyPalette(325, {zeny = 500000})
+StylingShop.AddBodyPalette(326, {zeny = 500000})
+StylingShop.AddBodyPalette(327, {zeny = 500000})
+StylingShop.AddBodyPalette(328, {zeny = 500000})
+StylingShop.AddBodyPalette(329, {zeny = 500000})
+StylingShop.AddBodyPalette(330, {zeny = 500000})
+StylingShop.AddBodyPalette(331, {zeny = 500000})
+StylingShop.AddBodyPalette(332, {zeny = 500000})
+StylingShop.AddBodyPalette(333, {zeny = 500000})
+StylingShop.AddBodyPalette(334, {zeny = 500000})
+StylingShop.AddBodyPalette(335, {zeny = 500000})
+StylingShop.AddBodyPalette(336, {zeny = 500000})
+StylingShop.AddBodyPalette(337, {zeny = 500000})
+StylingShop.AddBodyPalette(338, {zeny = 500000})
+StylingShop.AddBodyPalette(339, {zeny = 500000})
+StylingShop.AddBodyPalette(340, {zeny = 500000})
+StylingShop.AddBodyPalette(341, {zeny = 500000})
+StylingShop.AddBodyPalette(342, {zeny = 500000})
+StylingShop.AddBodyPalette(343, {zeny = 500000})
+StylingShop.AddBodyPalette(344, {zeny = 500000})
+StylingShop.AddBodyPalette(345, {zeny = 500000})
+StylingShop.AddBodyPalette(346, {zeny = 500000})
+StylingShop.AddBodyPalette(347, {zeny = 500000})
+StylingShop.AddBodyPalette(348, {zeny = 500000})
+StylingShop.AddBodyPalette(349, {zeny = 500000})
+StylingShop.AddBodyPalette(350, {zeny = 500000})
+StylingShop.AddBodyPalette(351, {zeny = 500000})
+StylingShop.AddBodyPalette(352, {zeny = 500000})
+StylingShop.AddBodyPalette(353, {zeny = 500000})
+StylingShop.AddBodyPalette(354, {zeny = 500000})
+StylingShop.AddBodyPalette(355, {zeny = 500000})
+StylingShop.AddBodyPalette(356, {zeny = 500000})
+StylingShop.AddBodyPalette(357, {zeny = 500000})
+StylingShop.AddBodyPalette(358, {zeny = 500000})
+StylingShop.AddBodyPalette(359, {zeny = 500000})
+StylingShop.AddBodyPalette(360, {zeny = 500000})
+StylingShop.AddBodyPalette(361, {zeny = 500000})
+StylingShop.AddBodyPalette(362, {zeny = 500000})
+StylingShop.AddBodyPalette(363, {zeny = 500000})
+StylingShop.AddBodyPalette(364, {zeny = 500000})
+StylingShop.AddBodyPalette(365, {zeny = 500000})
+StylingShop.AddBodyPalette(366, {zeny = 500000})
+StylingShop.AddBodyPalette(367, {zeny = 500000})
+StylingShop.AddBodyPalette(368, {zeny = 500000})
+StylingShop.AddBodyPalette(369, {zeny = 500000})
+StylingShop.AddBodyPalette(370, {zeny = 500000})
+StylingShop.AddBodyPalette(371, {zeny = 500000})
+StylingShop.AddBodyPalette(372, {zeny = 500000})
+StylingShop.AddBodyPalette(373, {zeny = 500000})
+StylingShop.AddBodyPalette(374, {zeny = 500000})
+StylingShop.AddBodyPalette(375, {zeny = 500000})
+StylingShop.AddBodyPalette(376, {zeny = 500000})
+StylingShop.AddBodyPalette(377, {zeny = 500000})
+StylingShop.AddBodyPalette(378, {zeny = 500000})
+StylingShop.AddBodyPalette(379, {zeny = 500000})
+StylingShop.AddBodyPalette(380, {zeny = 500000})
+StylingShop.AddBodyPalette(381, {zeny = 500000})
+StylingShop.AddBodyPalette(382, {zeny = 500000})
+StylingShop.AddBodyPalette(383, {zeny = 500000})
+StylingShop.AddBodyPalette(384, {zeny = 500000})
+StylingShop.AddBodyPalette(385, {zeny = 500000})
+StylingShop.AddBodyPalette(386, {zeny = 500000})
+StylingShop.AddBodyPalette(387, {zeny = 500000})
+StylingShop.AddBodyPalette(388, {zeny = 500000})
+StylingShop.AddBodyPalette(389, {zeny = 500000})
+StylingShop.AddBodyPalette(390, {zeny = 500000})
+StylingShop.AddBodyPalette(391, {zeny = 500000})
+StylingShop.AddBodyPalette(392, {zeny = 500000})
+StylingShop.AddBodyPalette(393, {zeny = 500000})
+StylingShop.AddBodyPalette(394, {zeny = 500000})
+StylingShop.AddBodyPalette(395, {zeny = 500000})
+StylingShop.AddBodyPalette(396, {zeny = 500000})
+StylingShop.AddBodyPalette(397, {zeny = 500000})
+StylingShop.AddBodyPalette(398, {zeny = 500000})
+StylingShop.AddBodyPalette(399, {zeny = 500000})
+StylingShop.AddBodyPalette(400, {zeny = 500000})
+StylingShop.AddBodyPalette(401, {zeny = 500000})
+StylingShop.AddBodyPalette(402, {zeny = 500000})
+StylingShop.AddBodyPalette(403, {zeny = 500000})
+StylingShop.AddBodyPalette(404, {zeny = 500000})
+StylingShop.AddBodyPalette(405, {zeny = 500000})
+StylingShop.AddBodyPalette(406, {zeny = 500000})
+StylingShop.AddBodyPalette(407, {zeny = 500000})
+StylingShop.AddBodyPalette(408, {zeny = 500000})
+StylingShop.AddBodyPalette(409, {zeny = 500000})
+StylingShop.AddBodyPalette(410, {zeny = 500000})
+StylingShop.AddBodyPalette(411, {zeny = 500000})
+StylingShop.AddBodyPalette(412, {zeny = 500000})
+StylingShop.AddBodyPalette(413, {zeny = 500000})
+StylingShop.AddBodyPalette(414, {zeny = 500000})
+StylingShop.AddBodyPalette(415, {zeny = 500000})
+StylingShop.AddBodyPalette(416, {zeny = 500000})
+StylingShop.AddBodyPalette(417, {zeny = 500000})
+StylingShop.AddBodyPalette(418, {zeny = 500000})
+StylingShop.AddBodyPalette(419, {zeny = 500000})
+StylingShop.AddBodyPalette(420, {zeny = 500000})
+StylingShop.AddBodyPalette(421, {zeny = 500000})
+StylingShop.AddBodyPalette(422, {zeny = 500000})
+StylingShop.AddBodyPalette(423, {zeny = 500000})
+StylingShop.AddBodyPalette(424, {zeny = 500000})
+StylingShop.AddBodyPalette(425, {zeny = 500000})
+StylingShop.AddBodyPalette(426, {zeny = 500000})
+StylingShop.AddBodyPalette(427, {zeny = 500000})
+StylingShop.AddBodyPalette(428, {zeny = 500000})
+StylingShop.AddBodyPalette(429, {zeny = 500000})
+StylingShop.AddBodyPalette(430, {zeny = 500000})
+StylingShop.AddBodyPalette(431, {zeny = 500000})
+StylingShop.AddBodyPalette(432, {zeny = 500000})
+StylingShop.AddBodyPalette(433, {zeny = 500000})
+StylingShop.AddBodyPalette(434, {zeny = 500000})
+StylingShop.AddBodyPalette(435, {zeny = 500000})
+StylingShop.AddBodyPalette(436, {zeny = 500000})
+StylingShop.AddBodyPalette(437, {zeny = 500000})
+StylingShop.AddBodyPalette(438, {zeny = 500000})
+StylingShop.AddBodyPalette(439, {zeny = 500000})
+StylingShop.AddBodyPalette(440, {zeny = 500000})
+StylingShop.AddBodyPalette(441, {zeny = 500000})
+StylingShop.AddBodyPalette(442, {zeny = 500000})
+StylingShop.AddBodyPalette(443, {zeny = 500000})
+StylingShop.AddBodyPalette(444, {zeny = 500000})
+StylingShop.AddBodyPalette(445, {zeny = 500000})
+StylingShop.AddBodyPalette(446, {zeny = 500000})
+StylingShop.AddBodyPalette(447, {zeny = 500000})
+StylingShop.AddBodyPalette(448, {zeny = 500000})
+StylingShop.AddBodyPalette(449, {zeny = 500000})
+StylingShop.AddBodyPalette(450, {zeny = 500000})
+StylingShop.AddBodyPalette(451, {zeny = 500000})
+StylingShop.AddBodyPalette(452, {zeny = 500000})
+StylingShop.AddBodyPalette(453, {zeny = 500000})
+StylingShop.AddBodyPalette(454, {zeny = 500000})
+StylingShop.AddBodyPalette(455, {zeny = 500000})
+StylingShop.AddBodyPalette(456, {zeny = 500000})
+StylingShop.AddBodyPalette(457, {zeny = 500000})
+StylingShop.AddBodyPalette(458, {zeny = 500000})
+StylingShop.AddBodyPalette(459, {zeny = 500000})
+StylingShop.AddBodyPalette(460, {zeny = 500000})
+StylingShop.AddBodyPalette(461, {zeny = 500000})
+StylingShop.AddBodyPalette(462, {zeny = 500000})
+StylingShop.AddBodyPalette(463, {zeny = 500000})
+StylingShop.AddBodyPalette(464, {zeny = 500000})
+StylingShop.AddBodyPalette(465, {zeny = 500000})
+StylingShop.AddBodyPalette(466, {zeny = 500000})
+StylingShop.AddBodyPalette(467, {zeny = 500000})
+StylingShop.AddBodyPalette(468, {zeny = 500000})
+StylingShop.AddBodyPalette(469, {zeny = 500000})
+StylingShop.AddBodyPalette(470, {zeny = 500000})
+StylingShop.AddBodyPalette(471, {zeny = 500000})
+StylingShop.AddBodyPalette(472, {zeny = 500000})
+StylingShop.AddBodyPalette(473, {zeny = 500000})
+StylingShop.AddBodyPalette(474, {zeny = 500000})
+StylingShop.AddBodyPalette(475, {zeny = 500000})
+StylingShop.AddBodyPalette(476, {zeny = 500000})
+StylingShop.AddBodyPalette(477, {zeny = 500000})
+StylingShop.AddBodyPalette(478, {zeny = 500000})
+StylingShop.AddBodyPalette(479, {zeny = 500000})
+StylingShop.AddBodyPalette(480, {zeny = 500000})
+StylingShop.AddBodyPalette(481, {zeny = 500000})
+StylingShop.AddBodyPalette(482, {zeny = 500000})
+StylingShop.AddBodyPalette(483, {zeny = 500000})
+StylingShop.AddBodyPalette(484, {zeny = 500000})
+StylingShop.AddBodyPalette(485, {zeny = 500000})
+StylingShop.AddBodyPalette(486, {zeny = 500000})
+StylingShop.AddBodyPalette(487, {zeny = 500000})
+StylingShop.AddBodyPalette(488, {zeny = 500000})
+StylingShop.AddBodyPalette(489, {zeny = 500000})
+StylingShop.AddBodyPalette(490, {zeny = 500000})
+StylingShop.AddBodyPalette(491, {zeny = 500000})
+StylingShop.AddBodyPalette(492, {zeny = 500000})
+StylingShop.AddBodyPalette(493, {zeny = 500000})
+StylingShop.AddBodyPalette(494, {zeny = 500000})
+StylingShop.AddBodyPalette(495, {zeny = 500000})
+StylingShop.AddBodyPalette(496, {zeny = 500000})
+StylingShop.AddBodyPalette(497, {zeny = 500000})
+StylingShop.AddBodyPalette(498, {zeny = 500000})
+StylingShop.AddBodyPalette(499, {zeny = 500000})
+StylingShop.AddBodyPalette(500, {zeny = 500000})
+StylingShop.AddBodyPalette(501, {zeny = 500000})
+StylingShop.AddBodyPalette(502, {zeny = 500000})
+StylingShop.AddBodyPalette(503, {zeny = 500000})
+StylingShop.AddBodyPalette(504, {zeny = 500000})
+StylingShop.AddBodyPalette(505, {zeny = 500000})
+StylingShop.AddBodyPalette(506, {zeny = 500000})
+StylingShop.AddBodyPalette(507, {zeny = 500000})
+StylingShop.AddBodyPalette(508, {zeny = 500000})
+StylingShop.AddBodyPalette(509, {zeny = 500000})
+StylingShop.AddBodyPalette(510, {zeny = 500000})
+StylingShop.AddBodyPalette(511, {zeny = 500000})
+StylingShop.AddBodyPalette(512, {zeny = 500000})
+StylingShop.AddBodyPalette(513, {zeny = 500000})
+StylingShop.AddBodyPalette(514, {zeny = 500000})
+StylingShop.AddBodyPalette(515, {zeny = 500000})
+StylingShop.AddBodyPalette(516, {zeny = 500000})
+StylingShop.AddBodyPalette(517, {zeny = 500000})
+StylingShop.AddBodyPalette(518, {zeny = 500000})
+StylingShop.AddBodyPalette(519, {zeny = 500000})
+StylingShop.AddBodyPalette(520, {zeny = 500000})
+StylingShop.AddBodyPalette(521, {zeny = 500000})
+StylingShop.AddBodyPalette(522, {zeny = 500000})
+StylingShop.AddBodyPalette(523, {zeny = 500000})
+StylingShop.AddBodyPalette(524, {zeny = 500000})
+StylingShop.AddBodyPalette(525, {zeny = 500000})
+StylingShop.AddBodyPalette(526, {zeny = 500000})
+StylingShop.AddBodyPalette(527, {zeny = 500000})
+StylingShop.AddBodyPalette(528, {zeny = 500000})
+StylingShop.AddBodyPalette(529, {zeny = 500000})
+StylingShop.AddBodyPalette(530, {zeny = 500000})
+StylingShop.AddBodyPalette(531, {zeny = 500000})
+StylingShop.AddBodyPalette(532, {zeny = 500000})
+StylingShop.AddBodyPalette(533, {zeny = 500000})
+StylingShop.AddBodyPalette(534, {zeny = 500000})
+StylingShop.AddBodyPalette(535, {zeny = 500000})
+StylingShop.AddBodyPalette(536, {zeny = 500000})
+StylingShop.AddBodyPalette(537, {zeny = 500000})
+StylingShop.AddBodyPalette(538, {zeny = 500000})
+StylingShop.AddBodyPalette(539, {zeny = 500000})
+StylingShop.AddBodyPalette(540, {zeny = 500000})
+StylingShop.AddBodyPalette(541, {zeny = 500000})
+StylingShop.AddBodyPalette(542, {zeny = 500000})
+StylingShop.AddBodyPalette(543, {zeny = 500000})
+StylingShop.AddBodyPalette(544, {zeny = 500000})
+StylingShop.AddBodyPalette(545, {zeny = 500000})
+StylingShop.AddBodyPalette(546, {zeny = 500000})
+StylingShop.AddBodyPalette(547, {zeny = 500000})
+StylingShop.AddBodyPalette(548, {zeny = 500000})
+StylingShop.AddBodyPalette(549, {zeny = 500000})
+StylingShop.AddBodyPalette(550, {zeny = 500000})
+StylingShop.AddDoramHeadStyle(1, {
+	zeny = 500000
+}, true)
+StylingShop.AddDoramHeadStyle(2, {
+	zeny = 500000
+}, false)
+StylingShop.AddDoramHeadStyle(3, {
+	zeny = 500000
+}, true)
+StylingShop.AddDoramHeadStyle(4, {
+	zeny = 500000
+}, true)
+StylingShop.AddDoramHeadStyle(5, {
+	zeny = 500000
+}, false)
+StylingShop.AddDoramHeadStyle(6, {
+	zeny = 500000
+}, false)
+StylingShop.AddDoramHeadStyle(7, {
+	zeny = 500000
+}, false)
+StylingShop.AddDoramHeadStyle(8, {
+	zeny = 500000
+}, false)
+StylingShop.AddDoramHeadStyle(9, {
+	zeny = 500000
+}, false)
+StylingShop.AddDoramHeadStyle(10, {
+	zeny = 500000
+}, false)
+StylingShop.AddDoramBodyPalette(0, {
+	zeny = 500000
+})
+StylingShop.AddDoramBodyPalette(2, {
+	zeny = 500000
+})
+StylingShop.AddDoramBodyPalette(3, {
+	zeny = 500000
+})
+StylingShop.AddSecondCostume(0, {
+	itid = 6959,
+	boxitid = 6959
+})
+StylingShop.AddSecondCostume(1, {
+	itid = 6959,
+	boxitid = 6959
+})
